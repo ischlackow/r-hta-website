@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -70,6 +70,6 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<tt>R</tt> for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of <tt>R</tt> for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. We advocate the use of proper statistical software, of which <tt>R</tt> is a very popular and efficient example, to be used in the whole process of health economic evaluation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including [NICE](http://www.nice.org.uk/) in the UK), academia, and industry. 
