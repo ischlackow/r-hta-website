@@ -18,7 +18,7 @@ organizations:
   url: "http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/overview.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: XXXX
+bio: 
 
 interests:
 - 

@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>R for trial and model-based cost-effectiveness analysis</title>
+      <title>Workshop: R for trial and model-based cost-effectiveness analysis</title>
       <link>/project/workshop/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/project/workshop/</guid>
@@ -30,32 +30,27 @@
 &lt;p&gt;The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;a href=&#34;./2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;./2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;scientific-committee&#34;&gt;Scientific Committee&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Thom&lt;/a&gt;, University of Bristol&lt;br&gt;
-
-&lt;a href=&#34;http://www.statistica.it/gianluca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gianluca Baio&lt;/a&gt;, University College London&lt;br&gt;
-
-&lt;a href=&#34;http://www.deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anthony Hatswell&lt;/a&gt;, Delta Hat Limited and University College London&lt;br&gt;
-
-&lt;a href=&#34;https://www.imperial.ac.uk/people/nathan.green&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nathan Green&lt;/a&gt;, Imperial College London&lt;br&gt;
-
-&lt;a href=&#34;https://www.herc.ox.ac.uk/team/iryna-schlackow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iryna Schlackow&lt;/a&gt;, University of Oxford&lt;br&gt;
-
-&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/claire-williams/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Williams&lt;/a&gt;, University of Bristol&lt;br&gt;
-
-&lt;a href=&#34;https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedro Saramago Goncalves&lt;/a&gt;, University of York&lt;br&gt;
-
-&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Padraig Dixon&lt;/a&gt;, University of Bristol&lt;br&gt;
-
-&lt;a href=&#34;https://www.ndph.ox.ac.uk/team/boby-mihaylova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boby Mihaylova&lt;/a&gt;, University of Oxford&lt;br&gt;
-
-&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicky Welton&lt;/a&gt;, University of Bristol&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Short course</title>
+      <link>/project/short-course/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/short-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>/project/hackathon/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/hackathon/</guid>
+      <description></description>
     </item>
     
   </channel>

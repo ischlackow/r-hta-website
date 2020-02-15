@@ -18,7 +18,7 @@ organizations:
   url: "http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - 

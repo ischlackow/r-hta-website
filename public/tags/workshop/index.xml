@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop | R for HTA</title>
+    <link>/tags/workshop/</link>
+      <atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
+      <title>workshop</title>
+      <link>/tags/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Workshop: R for trial and model-based cost-effectiveness analysis</title>
+      <link>/project/workshop/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/workshop/</guid>
+      <description>&lt;p&gt;This is an annual event organised jointly by the consortium. Academic institutions involved include 
+&lt;a href=&#34;www.ucl.ac.uk&#34;&gt;UCL&lt;/a&gt;, the 
+&lt;a href=&#34;http://www.bristol.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bristol&lt;/a&gt;, the 
+&lt;a href=&#34;https://www.york.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of York&lt;/a&gt;, the 
+&lt;a href=&#34;http://www.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt;, 
+&lt;a href=&#34;https://www.bangor.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bangor University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cost-effectiveness analysis (CEA) and, more generally, health technology assessment (HTA), is often performed using &lt;tt&gt;Excel&lt;/tt&gt;. Despite its (perceived) ease of use, &lt;tt&gt;Excel&lt;/tt&gt; incurs the disadvantages of slow computational speed and, contrary to health economics 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Folk_theorem_%28game_theory%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folk theorem&lt;/a&gt;, a lack of transparency.&lt;/p&gt;
+&lt;p&gt;The objective of this workshop is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for CEA as an alternative to less efficient, generalisable and powerful statistical software. General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; add-on packages, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. Presentations and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our expert speakers have diverse experience in government (including 
+&lt;a href=&#34;http://www.nice.org.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt;), academia, and industry. We also aim at having contributed oral presentations and poster sesssions.&lt;/p&gt;
+&lt;p&gt;The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R for trial and model-based cost-effectiveness analysis</title>
+      <link>/workshop/2020/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/workshop/2020/</guid>
+      <description>&lt;h2 id=&#34;29-30-june-2020-university-college-london-brbr&#34;&gt;29-30 June 2020, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;b&gt;Training event&lt;/b&gt; (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place &lt;a href =&#34;https://goo.gl/maps/RtR3Ypug2Dq&#34;&gt;(&lt;a href=&#34;https://goo.gl/maps/RtR3Ypug2Dq)%3C/a%3E,&#34;&gt;https://goo.gl/maps/RtR3Ypug2Dq)&amp;lt;/a&amp;gt;,&lt;/a&gt; University College London, United Kingdom &lt;br&gt;&lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;b&gt;Main workshop&lt;/b&gt; (30 June): Room G12, 1-19 in Torrington Place (&lt;a href =&#34;https://goo.gl/maps/RtR3Ypug2Dq&#34;&gt;&lt;a href=&#34;https://goo.gl/maps/RtR3Ypug2Dq%3C/a%3E),&#34;&gt;https://goo.gl/maps/RtR3Ypug2Dq&amp;lt;/a&amp;gt;),&lt;/a&gt; University College London, United Kingdom. &lt;br&gt;&lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;background-and-objectives&#34;&gt;&lt;strong&gt;Background and objectives&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It is our pleasure to announce a workshop and training event on the use of &lt;tt&gt;R&lt;/tt&gt; for trial and model-based cost-effectiveness analysis (CEA). This follows our successful workshops on 
+&lt;a href=&#34;http://www.statistica.it/gianluca/teaching/r-hta-workshop/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;tt&gt;R&lt;/tt&gt; for CEA in 2018&lt;/a&gt; and 
+&lt;a href=&#34;http://www.statistica.it/gianluca/teaching/r-hta-workshop/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019&lt;/a&gt;.&lt;/p&gt;
+&lt;!--
+Our event will begin with a __half-day short course__ on &lt;tt&gt;R&lt;/tt&gt; for decision trees and Markov models and the use of the [&lt;tt&gt;BCEA&lt;/tt&gt;](http://www.statistica.it/gianluca/software/bcea/) package for graphical and statistical analysis of results; this will be delivered by [Gianluca Baio](www.statistica.it/gianluca) of UCL and [Howard Thom](http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html) of Bristol University.
+
+This will be followed by a __one-day workshop__ in which we will present a wide variety of technical aspects by experts from academia, industry, and government institutions (including NICE). Topics will include decision trees, Markov models, discrete event simulation, integration of network meta-analysis, extrapolation of survival curves, and development of &lt;tt&gt;R&lt;/tt&gt; packages. 
+
+We will include a pre-workshop __[virtual code challenge](http://htmlpreview.github.io/?https://github.com/Health-Economics-in-R/CEA.code.challenge2019/blob/master/challenges.html)__ on a problem set by our scientific committee. This will take place over Github and a Slack channel with participants encouraged to submit final R code solutions for peer review on efficiency, flexibility, elegance and transparency. Prizes will be provided for the best entry.
+
+Participants are also invited to __submit abstracts for potential oral presentations__. An optional dinner and networking event will be held on the evening of 8th July. 
+
+Fees and a preliminary programme are provided below. 
+
+| __Event__ | __Date__ | __Fee__ | __Available places__ |
+|-----------|----------|---------|----------------------|
+| Short course introduction to &lt;tt&gt;R&lt;/tt&gt; for CEA modelling | Monday 8 July | £150 | 20 |
+| Networking event Dinner | Monday 8 July | £30 | --- |
+| &lt;tt&gt;R&lt;/tt&gt; for CEA workshop | Tuesday 9 July | £60 | 120 |
+--&gt;
+&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Registration &lt;i&gt;for the training event&lt;/i&gt; can be made at &lt;a href=&#34;https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-short-course-on-r-for-decision-trees-markov-models-the-use-of-bcea&#34;&gt;&lt;b&gt;this&lt;/b&gt;&lt;/a&gt; webpage. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Registration &lt;i&gt;for the workshop&lt;/i&gt; can be made at &lt;a href=&#34;https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-workshop-on-r-for-trial-modelbased-costeffectiveness-analysis&#34;&gt;&lt;b&gt;this&lt;/b&gt;&lt;/a&gt; webpage.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Registration is open until 1 June 2019.
+--&gt;
+&lt;!--
+&lt;br&gt;&lt;br&gt;
+
+## **Programme**
+### Day 1: Introduction to R for Cost-Effectiveness Modelling. Monday 8th July.
+- 13:00-13:15. Howard Thom. _Welcome and introductions_ 
+- 13:15-13:45. Howard Thom. _Building a decision tree in &lt;tt&gt;R&lt;/tt&gt;_
+- 13:45-14:15. Gianluca Baio. _Using &lt;tt&gt;BCEA&lt;/tt&gt; to summarise outputs of an economic model_
+- 14:15-14:45. Practical 1 (Decision trees)
+- 14:45-15:00. Coffee break
+- 15:00-15:45. Howard Thom. _&lt;tt&gt;R&lt;/tt&gt; for building Markov models_
+- 15:45-16:15. Gianluca Baio. _Further use of &lt;tt&gt;BCEA&lt;/tt&gt;_
+- 16:15-17:00. Practical 2 (Markov models)
+
+### Day 2: Workshop. Tuesday 9th July.
+- 10:00-10:10. Howard Thom. _Welcome_
+- 10:10-10:40. [Nathan Green](https://www.imperial.ac.uk/people/nathan.green). Imperial College London. [_Simple, pain-free decision trees in &lt;tt&gt;R&lt;/tt&gt; for the &lt;tt&gt;Excel&lt;/tt&gt; user_](Green.pdf)
+- 10:40-11:10. [Pedro Saramago](https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/). Centre for Health Economics, University of York. [_Using &lt;tt&gt;R&lt;/tt&gt; for Markov modelling: an introduction_](Saramago.pdf)
+- 11:10-11:20. [Anastasiia Zharinova](https://www.strategyunitwm.nhs.uk/author/anastasiia-zharinova). NHS Midlands And Lancashire Commissioning Support Unit. [_The NHS-R Community Collaboration_](Zharinova.pdf)
+- 11:20-11:35. Coffee
+- 11:35-11:55. [Angela Devine](https://www.menzies.edu.au/page/Our_People/Researchers/Angela_Devine/). Menzies School of Health Research and Charles Darwin University, Australia. [_Using &lt;tt&gt;R&lt;/tt&gt; to model the cost-effectiveness of options for the management of Plasmodium vivax infections_](Devine.pdf)
+- 11:55-12:15. [David Tordrup](http://www.pharmaceuticalpolicy.nl/people/david-tordrup/). Triangulate Health Ltd / WHO Collaborating Centre for Pharmaceutical Policy and Regulation, UK. [_A national population cohort model incorporating age structure and population growth in 15 countries in &lt;tt&gt;R&lt;/tt&gt;/&lt;tt&gt;HEEMOD&lt;/tt&gt;_](Tordrup.pdf)
+- 12:15-12:35. [Arantzazu Arrospide](https://www.osakidetza.euskadi.eus/ab84-cerbus/es/contenidos/informacion/oadb_hospital/es_oadb/osi_alto_deba.html). Debagoiena Integrated Health Organisation, Alto Deba Hospital, Spain. [_Using &lt;tt&gt;R&lt;/tt&gt; to incorporate uncertainty in discrete event simulation modelling: problems and solutions_](Arrospide.pdf)
+- 12:35-12:55. [James O&#39;Mahony](https://www.tcd.ie/research/profiles/?profile=omahonj1) and Yi-Shu Lin. Trinity College Dublin, Ireland. [A Simplified Model of the Cost-Effectiveness of Screening: An Open-Source Teaching and Research Tool Coded in &lt;tt&gt;R&lt;/tt&gt;](OMahony.pdf) 
+- 12:55-13:00. [Gianluca Baio](www.statistica.it/gianluca). University College London. [_Packing up, shacking up&#39;s (going to be) all you wanna do!. Building packages in &lt;tt&gt;R&lt;/tt&gt; and Github_](Baio.pdf)
+- 13.00-14.30. Lunch
+- 14:30-14:45. [Jeroen Jansen](https://metrics.stanford.edu/about-us/bio/jeroen-jansen). Innovation and Value Initiative. [_State transition models and integration with network meta-analysis_](Jansen.pdf)
+- 14:30-14:40. [Ash Bullement](http://www.deltahat.co.uk/). Delta Hat Analytics, UK. [_Fitting and extrapolating survival curves for CEA models_](Bullement.pdf)
+- 14:40-15:00. Claire Simons and [Iryna Schlackow](https://www.herc.ox.ac.uk/team/iryna-schlackow). Nuffield Department of Public Health, University of Oxford. [_Generic &lt;tt&gt;R&lt;/tt&gt; methods to prepare routine healthcare data for disease modelling_](Simons.pdf)
+- 15:00-15:15. Coffee
+- 15:15-15:30. _Initiatives for the future and challenges in gaining &lt;tt&gt;R&lt;/tt&gt; acceptance (ISPOR Taskforce, ISPOR Special Interest Group, future of the &lt;tt&gt;R&lt;/tt&gt; for CEA workshop)_
+- 15:30-16:30. Participant discussion.
+- 16:30-16:45. [Anthony Hatswell](http://www.deltahat.co.uk/). _Close and conclusions_
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;!--
+To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howard.thom@bristol.ac.uk)  with the subject “R for CEA abstract”. The word limit is 300. Abstract submission deadline is __15 May 2019__ and the scientific committee will make decisions on acceptance by 1st June 2018.
+--&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+&amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;h3 id=&#34;scientific-committee&#34;&gt;Scientific Committee&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Thom&lt;/a&gt;, University of Bristol&lt;br&gt;
+
+&lt;a href=&#34;http://www.statistica.it/gianluca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gianluca Baio&lt;/a&gt;, University College London&lt;br&gt;
+
+&lt;a href=&#34;http://www.deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anthony Hatswell&lt;/a&gt;, Delta Hat Limited and University College London&lt;br&gt;
+
+&lt;a href=&#34;https://www.imperial.ac.uk/people/nathan.green&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nathan Green&lt;/a&gt;, Imperial College London&lt;br&gt;
+
+&lt;a href=&#34;https://www.herc.ox.ac.uk/team/iryna-schlackow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iryna Schlackow&lt;/a&gt;, University of Oxford&lt;br&gt;
+
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/claire-williams/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Williams&lt;/a&gt;, University of Bristol&lt;br&gt;
+
+&lt;a href=&#34;https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedro Saramago Goncalves&lt;/a&gt;, University of York&lt;br&gt;
+
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Padraig Dixon&lt;/a&gt;, University of Bristol&lt;br&gt;
+
+&lt;a href=&#34;https://www.ndph.ox.ac.uk/team/boby-mihaylova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boby Mihaylova&lt;/a&gt;, University of Oxford&lt;br&gt;
+
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicky Welton&lt;/a&gt;, University of Bristol&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R for trial and model-based cost-effectiveness analysis</title>
+      <link>/workshop/2019/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/workshop/2019/</guid>
+      <description>&lt;h2 id=&#34;9-july-2019-university-college-london-brbr&#34;&gt;9 July 2019, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;b&gt;Training event&lt;/b&gt; (8 July): Torrington (1-19) B07 - Teal Room in Torrington Place, 1-19 &lt;a href =&#34;https://goo.gl/maps/RtR3Ypug2Dq&#34;&gt;(&lt;a href=&#34;https://goo.gl/maps/RtR3Ypug2Dq)%3C/a%3E,&#34;&gt;https://goo.gl/maps/RtR3Ypug2Dq)&amp;lt;/a&amp;gt;,&lt;/a&gt; University College London, United Kingdom &lt;br&gt;&lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;b&gt;Main workshop&lt;/b&gt; (9 July): Anatomy G29 J Z Young Lecture Theatre, UCL Medical Sciences and Anatomy (&lt;a href =&#34;https://goo.gl/maps/biryoFc9CiL2&#34;&gt;&lt;a href=&#34;https://goo.gl/maps/biryoFc9CiL2%3C/a%3E),&#34;&gt;https://goo.gl/maps/biryoFc9CiL2&amp;lt;/a&amp;gt;),&lt;/a&gt; University College London, United Kingdom. &lt;br&gt;&lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;background-and-objectives&#34;&gt;&lt;strong&gt;Background and objectives&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It is our pleasure to announce a workshop and training event on the use of &lt;tt&gt;R&lt;/tt&gt; for trial and model-based cost-effectiveness analysis (CEA). This follows our successful workshop on 
+&lt;a href=&#34;http://www.statistica.it/gianluca/teaching/r-hta-workshop/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;tt&gt;R&lt;/tt&gt; for CEA in 2018&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our event will begin with a &lt;strong&gt;half-day short course&lt;/strong&gt; on &lt;tt&gt;R&lt;/tt&gt; for decision trees and Markov models and the use of the 
+&lt;a href=&#34;http://www.statistica.it/gianluca/software/bcea/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;tt&gt;BCEA&lt;/tt&gt;&lt;/a&gt; package for graphical and statistical analysis of results; this will be delivered by 
+&lt;a href=&#34;www.statistica.it/gianluca&#34;&gt;Gianluca Baio&lt;/a&gt; of UCL and 
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Thom&lt;/a&gt; of Bristol University.&lt;/p&gt;
+&lt;p&gt;This will be followed by a &lt;strong&gt;one-day workshop&lt;/strong&gt; in which we will present a wide variety of technical aspects by experts from academia, industry, and government institutions (including NICE). Topics will include decision trees, Markov models, discrete event simulation, integration of network meta-analysis, extrapolation of survival curves, and development of &lt;tt&gt;R&lt;/tt&gt; packages.&lt;/p&gt;
+&lt;p&gt;We will include a pre-workshop &lt;strong&gt;
+&lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/Health-Economics-in-R/CEA.code.challenge2019/blob/master/challenges.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;virtual code challenge&lt;/a&gt;&lt;/strong&gt; on a problem set by our scientific committee. This will take place over Github and a Slack channel with participants encouraged to submit final R code solutions for peer review on efficiency, flexibility, elegance and transparency. Prizes will be provided for the best entry.&lt;/p&gt;
+&lt;p&gt;Participants are also invited to &lt;strong&gt;submit abstracts for potential oral presentations&lt;/strong&gt;. An optional dinner and networking event will be held on the evening of 8th July.&lt;/p&gt;
+&lt;p&gt;Fees and a preliminary programme are provided below.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Event&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Fee&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Available places&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Short course introduction to &lt;tt&gt;R&lt;/tt&gt; for CEA modelling&lt;/td&gt;
+&lt;td&gt;Monday 8 July&lt;/td&gt;
+&lt;td&gt;£150&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Networking event Dinner&lt;/td&gt;
+&lt;td&gt;Monday 8 July&lt;/td&gt;
+&lt;td&gt;£30&lt;/td&gt;
+&lt;td&gt;&amp;mdash;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;tt&gt;R&lt;/tt&gt; for CEA workshop&lt;/td&gt;
+&lt;td&gt;Tuesday 9 July&lt;/td&gt;
+&lt;td&gt;£60&lt;/td&gt;
+&lt;td&gt;120&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Registration &lt;i&gt;for the training event&lt;/i&gt; can be made at &lt;a href=&#34;https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-short-course-on-r-for-decision-trees-markov-models-the-use-of-bcea&#34;&gt;&lt;b&gt;this&lt;/b&gt;&lt;/a&gt; webpage. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Registration &lt;i&gt;for the workshop&lt;/i&gt; can be made at &lt;a href=&#34;https://onlinestore.ucl.ac.uk/conferences-and-events/faculty-of-mathematical-physical-sciences-c06/department-of-statistical-science-f61/f61-workshop-on-r-for-trial-modelbased-costeffectiveness-analysis&#34;&gt;&lt;b&gt;this&lt;/b&gt;&lt;/a&gt; webpage.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Registration is open until 1 June 2019.
+--&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;programme&#34;&gt;&lt;strong&gt;Programme&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;day-1-introduction-to-r-for-cost-effectiveness-modelling-monday-8th-july&#34;&gt;Day 1: Introduction to R for Cost-Effectiveness Modelling. Monday 8th July.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;13:00-13:15. Howard Thom. &lt;em&gt;Welcome and introductions&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;13:15-13:45. Howard Thom. &lt;em&gt;Building a decision tree in &lt;tt&gt;R&lt;/tt&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;13:45-14:15. Gianluca Baio. &lt;em&gt;Using &lt;tt&gt;BCEA&lt;/tt&gt; to summarise outputs of an economic model&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14:15-14:45. Practical 1 (Decision trees)&lt;/li&gt;
+&lt;li&gt;14:45-15:00. Coffee break&lt;/li&gt;
+&lt;li&gt;15:00-15:45. Howard Thom. &lt;em&gt;&lt;tt&gt;R&lt;/tt&gt; for building Markov models&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;15:45-16:15. Gianluca Baio. &lt;em&gt;Further use of &lt;tt&gt;BCEA&lt;/tt&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;16:15-17:00. Practical 2 (Markov models)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;day-2-workshop-tuesday-9th-july&#34;&gt;Day 2: Workshop. Tuesday 9th July.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;10:00-10:10. Howard Thom. &lt;em&gt;Welcome&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;10:10-10:40. 
+&lt;a href=&#34;https://www.imperial.ac.uk/people/nathan.green&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nathan Green&lt;/a&gt;. Imperial College London. 
+&lt;a href=&#34;Green.pdf&#34;&gt;&lt;em&gt;Simple, pain-free decision trees in &lt;tt&gt;R&lt;/tt&gt; for the &lt;tt&gt;Excel&lt;/tt&gt; user&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;10:40-11:10. 
+&lt;a href=&#34;https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedro Saramago&lt;/a&gt;. Centre for Health Economics, University of York. 
+&lt;a href=&#34;Saramago.pdf&#34;&gt;&lt;em&gt;Using &lt;tt&gt;R&lt;/tt&gt; for Markov modelling: an introduction&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11:10-11:20. 
+&lt;a href=&#34;https://www.strategyunitwm.nhs.uk/author/anastasiia-zharinova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anastasiia Zharinova&lt;/a&gt;. NHS Midlands And Lancashire Commissioning Support Unit. 
+&lt;a href=&#34;Zharinova.pdf&#34;&gt;&lt;em&gt;The NHS-R Community Collaboration&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11:20-11:35. Coffee&lt;/li&gt;
+&lt;li&gt;11:35-11:55. 
+&lt;a href=&#34;https://www.menzies.edu.au/page/Our_People/Researchers/Angela_Devine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Angela Devine&lt;/a&gt;. Menzies School of Health Research and Charles Darwin University, Australia. 
+&lt;a href=&#34;Devine.pdf&#34;&gt;&lt;em&gt;Using &lt;tt&gt;R&lt;/tt&gt; to model the cost-effectiveness of options for the management of Plasmodium vivax infections&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11:55-12:15. 
+&lt;a href=&#34;http://www.pharmaceuticalpolicy.nl/people/david-tordrup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Tordrup&lt;/a&gt;. Triangulate Health Ltd / WHO Collaborating Centre for Pharmaceutical Policy and Regulation, UK. 
+&lt;a href=&#34;Tordrup.pdf&#34;&gt;&lt;em&gt;A national population cohort model incorporating age structure and population growth in 15 countries in &lt;tt&gt;R&lt;/tt&gt;/&lt;tt&gt;HEEMOD&lt;/tt&gt;&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12:15-12:35. 
+&lt;a href=&#34;https://www.osakidetza.euskadi.eus/ab84-cerbus/es/contenidos/informacion/oadb_hospital/es_oadb/osi_alto_deba.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arantzazu Arrospide&lt;/a&gt;. Debagoiena Integrated Health Organisation, Alto Deba Hospital, Spain. 
+&lt;a href=&#34;Arrospide.pdf&#34;&gt;&lt;em&gt;Using &lt;tt&gt;R&lt;/tt&gt; to incorporate uncertainty in discrete event simulation modelling: problems and solutions&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12:35-12:55. 
+&lt;a href=&#34;https://www.tcd.ie/research/profiles/?profile=omahonj1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James O&#39;Mahony&lt;/a&gt; and Yi-Shu Lin. Trinity College Dublin, Ireland. 
+&lt;a href=&#34;OMahony.pdf&#34;&gt;A Simplified Model of the Cost-Effectiveness of Screening: An Open-Source Teaching and Research Tool Coded in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12:55-13:00. 
+&lt;a href=&#34;www.statistica.it/gianluca&#34;&gt;Gianluca Baio&lt;/a&gt;. University College London. 
+&lt;a href=&#34;Baio.pdf&#34;&gt;&lt;em&gt;Packing up, shacking up&#39;s (going to be) all you wanna do!. Building packages in &lt;tt&gt;R&lt;/tt&gt; and Github&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13.00-14.30. Lunch&lt;/li&gt;
+&lt;li&gt;14:30-14:45. 
+&lt;a href=&#34;https://metrics.stanford.edu/about-us/bio/jeroen-jansen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen Jansen&lt;/a&gt;. Innovation and Value Initiative. 
+&lt;a href=&#34;Jansen.pdf&#34;&gt;&lt;em&gt;State transition models and integration with network meta-analysis&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;14:30-14:40. 
+&lt;a href=&#34;http://www.deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ash Bullement&lt;/a&gt;. Delta Hat Analytics, UK. 
+&lt;a href=&#34;Bullement.pdf&#34;&gt;&lt;em&gt;Fitting and extrapolating survival curves for CEA models&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;14:40-15:00. Claire Simons and 
+&lt;a href=&#34;https://www.herc.ox.ac.uk/team/iryna-schlackow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iryna Schlackow&lt;/a&gt;. Nuffield Department of Public Health, University of Oxford. 
+&lt;a href=&#34;Simons.pdf&#34;&gt;&lt;em&gt;Generic &lt;tt&gt;R&lt;/tt&gt; methods to prepare routine healthcare data for disease modelling&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;15:00-15:15. Coffee&lt;/li&gt;
+&lt;li&gt;15:15-15:30. &lt;em&gt;Initiatives for the future and challenges in gaining &lt;tt&gt;R&lt;/tt&gt; acceptance (ISPOR Taskforce, ISPOR Special Interest Group, future of the &lt;tt&gt;R&lt;/tt&gt; for CEA workshop)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;15:30-16:30. Participant discussion.&lt;/li&gt;
+&lt;li&gt;16:30-16:45. 
+&lt;a href=&#34;http://www.deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anthony Hatswell&lt;/a&gt;. &lt;em&gt;Close and conclusions&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!--
+To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howard.thom@bristol.ac.uk)  with the subject “R for CEA abstract”. The word limit is 300. Abstract submission deadline is __15 May 2019__ and the scientific committee will make decisions on acceptance by 1st June 2018.
+--&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;scientific-committee&#34;&gt;Scientific Committee&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Thom&lt;/a&gt;, University of Bristol&lt;br&gt;
+
+&lt;a href=&#34;http://www.statistica.it/gianluca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gianluca Baio&lt;/a&gt;, University College London&lt;br&gt;
+
+&lt;a href=&#34;http://www.deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anthony Hatswell&lt;/a&gt;, Delta Hat Limited and University College London&lt;br&gt;
+
+&lt;a href=&#34;https://www.imperial.ac.uk/people/nathan.green&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nathan Green&lt;/a&gt;, Imperial College London&lt;br&gt;
+
+&lt;a href=&#34;https://www.herc.ox.ac.uk/team/iryna-schlackow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iryna Schlackow&lt;/a&gt;, University of Oxford&lt;br&gt;
+
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/claire-williams/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Williams&lt;/a&gt;, University of Bristol&lt;br&gt;
+
+&lt;a href=&#34;https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pedro Saramago Goncalves&lt;/a&gt;, University of York&lt;br&gt;
+
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Padraig Dixon&lt;/a&gt;, University of Bristol&lt;br&gt;
+
+&lt;a href=&#34;https://www.ndph.ox.ac.uk/team/boby-mihaylova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boby Mihaylova&lt;/a&gt;, University of Oxford&lt;br&gt;
+
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicky Welton&lt;/a&gt;, University of Bristol&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R for trial and model-based cost-effectiveness analysis</title>
+      <link>/workshop/2018/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/workshop/2018/</guid>
+      <description>&lt;h2 id=&#34;11-july-2018-university-college-london-brbr&#34;&gt;11 July 2018, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;b&gt;Venue&lt;/b&gt;: Room G13 in &lt;a href=&#34;https://goo.gl/maps/pzn4q1rjxU32&#34;&gt;1-19 Torrington Place&lt;/a&gt;, University College London, United Kingdom. &lt;br&gt;&lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;background-and-objectives&#34;&gt;&lt;strong&gt;Background and objectives&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This one-day workshop on the use of &lt;tt&gt;R&lt;/tt&gt; for trial and model-based cost-effectiveness analysis (CEA) is jointly organised by a consortium of researchers at various institutions (
+&lt;a href=&#34;https://www.ucl.ac.uk/statistics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCL&lt;/a&gt;, 
+&lt;a href=&#34;https://www.york.ac.uk/che/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of York&lt;/a&gt;, 
+&lt;a href=&#34;https://www.herc.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt; and 
+&lt;a href=&#34;http://cheme.bangor.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bangor University&lt;/a&gt;), led by the 
+&lt;a href=&#34;https://www.bristol.ac.uk/population-health-sciences/centres/conduct2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRC Hubs for Trials and Methodology and Research Conduct-II&lt;/a&gt;. The Scientific Committee include: Howard Thom, Gianluca Baio, Anthony Hatswell, Dyfrig Hughes, Chris Jackson, Marta Soares, Claire Williams, Nicky Welton, Padraig Dixon, Boby Mihaylova and Iryna Schlackow.&lt;/p&gt;
+&lt;p&gt;Funding for the workshop has been provided by the 
+&lt;a href=&#34;https://www.methodologyhubs.mrc.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MRC Network of Hubs for Trials Methodology Research&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.ucl.ac.uk/statistics/research/statistics-health-economics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCL Research Group Statistics for Health Economics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;CEA is often performed using &lt;tt&gt;MS Excel&lt;/tt&gt; but, despite its ease of use, &lt;tt&gt;MS Excel&lt;/tt&gt; incurs the disadvantages of slow computational speed and a lack of transparency; our workshop aims to explore the use of &lt;tt&gt;R&lt;/tt&gt; for CEA as an alternative. The aim of the workshop is to present a wide range of technical aspects, including a discussion of the many available add-on packages to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. Presentations and public discussions address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;MS Excel&lt;/tt&gt; for CEA and for easing collaboration. The speakers have diverse experience in government (including 
+&lt;a href=&#34;https://www.nice.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt;), academia and industry.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;final-programme&#34;&gt;&lt;strong&gt;Final Programme&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;session-1-invited-talks-1---chair-anthony-hatswell&#34;&gt;Session 1: Invited talks (1) - chair: Anthony Hatswell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;9:30-9:45. 
+&lt;a href=&#34;http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howard Thom&lt;/a&gt;, University of Bristol. &lt;em&gt;Welcome.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;9:45-10:15. 
+&lt;a href=&#34;http://www.statistica.it/gianluca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gianluca Baio&lt;/a&gt;. Department of Statistical Science, University College London. 
+&lt;a href=&#34;Baio.pdf&#34;&gt;&lt;em&gt;&lt;tt&gt;R&lt;/tt&gt; you seriously saying we shouldn&#39;t use &lt;tt&gt;Excel&lt;/tt&gt;?&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This talk will showcase some of the &lt;tt&gt;R&lt;/tt&gt; packages recently developed to aid the work of modellers working in health economic evaluations. The motivation and general philosophy of a few packages will be briefly presented. Examples of their use/advantages over more established, but often non-optimal computational tools, such as &lt;tt&gt;MS Excel&lt;/tt&gt; will be demonstrated. Link to relevant [web-applications](https://egon.stats.ucl.ac.uk/projects/).
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:15-10:35. 
+&lt;a href=&#34;https://www.york.ac.uk/che/staff/research/marta-soares/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marta Soares&lt;/a&gt;. Centre for Health Economics, University of York. 
+&lt;a href=&#34;Soares.pdf&#34;&gt;&lt;em&gt;Using &lt;tt&gt;R&lt;/tt&gt; for Markov modelling: an introduction.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This talk introduces the use of &lt;tt&gt;R&lt;/tt&gt; for generic decision modelling detailing some of the advantages and disadvantages of this software package in relation to others commonly used, such as &lt;tt&gt;MS Excel&lt;/tt&gt;. In this talk, I also present generic &lt;tt&gt;R&lt;/tt&gt; code for Markov modelling, probabilistic sensitivity analyses and value of information analyses (using Monte Carlo simulation). &lt;tt&gt;R&lt;/tt&gt; code for [deterministic](Rcode_deterministic.R) and [probabilistic](Rcode_probabilistic.R) analysis.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:35-11:15. 
+&lt;a href=&#34;https://www.ndph.ox.ac.uk/team/boby-mihaylova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boby Mihaylova&lt;/a&gt; and 
+&lt;a href=&#34;https://www.ndph.ox.ac.uk/team/iryna-schlackow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iryna Schlackow&lt;/a&gt;. Health Economics Research Centre, Nuffield Department of Public Health, University of Oxford. 
+&lt;a href=&#34;Schlackov_Mihaylova.pdf&#34;&gt;&lt;em&gt;A policy model of cardiovascular disease in moderate-to-advanced chronic kidney disease.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This talk will present the design and structure in R of the SHARP CKD-CVD model, developed using the 5-years follow-up data of 10,000 patients with chronic kidney disease in the SHARP study. The model projects chronic kidney disease progression and cardiovascular complications and mortality using a set of multivariate risk, cost and QoL equations. We will demonstrate the &lt;tt&gt;R&lt;/tt&gt; Shiny-based model interface to enable use by external analysts and will discuss issues related to model functionality and speed of~execution. [Paper](https://heart.bmj.com/content/early/2017/08/03/heartjnl-2016-310970) describing the model; model [interface](http://dismod.ndph.ox.ac.uk/kidneymodel/app/).
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;11:15-11:35. Coffee break.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-2-participants-oral-presentation-session-3-speakers-15-minutes-each---chair-marta-soares&#34;&gt;Session 2: Participants oral presentation session (3 speakers, 15 minutes each) - chair: Marta Soares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;11:35-11:55. 
+&lt;a href=&#34;https://metrics.stanford.edu/about-us/bio/jeroen-jansen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen Jansen&lt;/a&gt;, Innovation and Value Initiative. 
+&lt;a href=&#34;Jansen.pdf&#34;&gt;&lt;em&gt;An open-source cost-effectiveness simulation model for rheumatoid arthritis in &lt;tt&gt;R&lt;/tt&gt;.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+As part of the Open Source Value Project (OSVP), we developed a flexible open-source individual patient simulation model for rheumatoid arthritis (IVI-RA model). Alternative biologic treatment sequences, parameter and structural uncertainty, and decision framework (i.e.~cost-effectiveness of multi-criteria decision analysis) can be easily explored. The model facilitates dialogue between stakeholders about relevant clinical data, modelling approaches, and value perspectives. &lt;tt&gt;R&lt;/tt&gt; and &lt;tt&gt;C++&lt;/tt&gt; code is available in a GitHub repository, along with Shiny server user interfaces for a non-technical audience.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;11:55-12:15. 
+&lt;a href=&#34;https://www.erasmusmc.nl/3790579/art/members/e.krijkamp?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eline Krijkamp&lt;/a&gt;, Erasmus MC. 
+&lt;a href=&#34;Krijkamp.pdf&#34;&gt;&lt;em&gt;Introducing the Decision Analysis in &lt;tt&gt;R&lt;/tt&gt; for Technologies in Health (DARTH) initiative.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This talk will present an introduction to the tools and educational materials created by the [DARTH](http://darthworkgroup.com/) (Decision Analysis in &lt;tt&gt;R&lt;/tt&gt; for Technologies in Health) collaboration. DARTH is a multi-institutional, multi-university effort aiming to develop transparent and open-source solutions to decision analysis in health. DARTH courses and tutorial papers cover diverse applications of &lt;tt&gt;R&lt;/tt&gt; in health decision sciences, including decision trees, cohort models, and microsimulations. DARTH have also created &lt;tt&gt;OpenTree&lt;/tt&gt;, an online graphical user interface for building decision trees and Markov models than can output code to &lt;tt&gt;R&lt;/tt&gt;.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12:15-12:30. 
+&lt;a href=&#34;http://cheme.bangor.ac.uk/DyfrigHughesBiography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dyfrig Hughes&lt;/a&gt;. Centre for Health Economics &amp;amp; Medicines Evaluation, Bangor University. 
+&lt;a href=&#34;Hughes.pdf&#34;&gt;&lt;em&gt;Health technology assessors&amp;rsquo; perspectives on &lt;tt&gt;R&lt;/tt&gt;.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This session will present the perspectives of members of NICE evidence review groups, AWMSG secretariat and SMC independent assessors on sponsor submissions using &lt;tt&gt;R&lt;/tt&gt;. The skill requirements, confidence and expertise of these groups in using &lt;tt&gt;R&lt;/tt&gt; will also be discussed.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12:30-13:30. Lunch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-3-invited-talks-2---chair-boby-mihaylova&#34;&gt;Session 3: Invited talks (2) - chair: Boby Mihaylova&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;13:30-13:50. Howard Thom, University of Bristol. 
+&lt;a href=&#34;Thom.pdf&#34;&gt;&lt;em&gt;Value of information analysis in &lt;tt&gt;R&lt;/tt&gt;.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This session will cover the methods for value of information analysis that can be implemented in &lt;tt&gt;R&lt;/tt&gt;, including linearization, brute force Monte Carlo simulation, parallel computing, meta-modelling, multilevel Monte Carlo and quasi Monte Carlo.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13:50-14:10. 
+&lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/h-to-m/christopher-jackson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Jackson&lt;/a&gt;. Medical Research Council Biostatistics Unit, University of Cambridge. 
+&lt;a href=&#34;Jackson.pdf&#34;&gt;&lt;em&gt;Continuous-time multi-state models for disease progression.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This session will introduce the theory of modelling disease progression as a continuous-time multi-state process, and how this can be used in cost-effectiveness analysis. &lt;tt&gt;R&lt;/tt&gt; software for continuous-time modelling of various patterns of observed data will be discussed. 
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;14:10-14:30. 
+&lt;a href=&#34;http://www.bris.ac.uk/social-community-medicine/people/claire-williams/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Claire Williams&lt;/a&gt;. Bristol Medical School: Population Health Sciences, University of Bristol. 
+&lt;a href=&#34;Williams.pdf&#34;&gt;&lt;em&gt;An overview of a suite of code and functions for CEA in &lt;tt&gt;R&lt;/tt&gt; using continuous-time multi-state modelling.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This session will give a brief snapshot of the code already available in a tutorial paper detailing how to carry out Markov and semi-Markov modelling using the continuous-time multi-state modelling survival analysis framework. It will include how to carry out deterministic and probabilistic sensitivity analysis and appropriate graphical outputs. 
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;14:30-14:50. Coffee break&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;session-4-discussion---chair-gianluca-baio&#34;&gt;Session 4: Discussion - chair: Gianluca Baio&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;14:50-15:05. Anthony Hatswell. 
+&lt;a href=&#34;http://deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Delta Hat Analytics&lt;/a&gt;; Department of Statistical Science, University College London. 
+&lt;a href=&#34;Hatswell.pdf&#34;&gt;&lt;em&gt;Existing frameworks for collaborative working.&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;margin-left: 0.0em;padding: 0 0em 1em 0;&#34;&gt;
+This session will outline various ways of working currently used in collaborative efforts in the health economics and connected spheres. The pros and cons of each approach will be outlines, and how the use of &lt;tt&gt;R&lt;/tt&gt; may be promoted under each of the scenarios.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15:05-16:20. Participant discussion.&lt;/li&gt;
+&lt;li&gt;16:20-16:30. Howard Thom. &lt;em&gt;Close and conclusions.&lt;/em&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;https://www.bristol.ac.uk/media-library/sites/social-community-medicine/images/mrc-conduct2-logo.png&amp;rdquo;, width = &amp;ldquo;180&amp;rdquo;, height = &amp;ldquo;320&amp;rdquo; style=&amp;quot;float: left;margin-right: 20px;margin-top: 0px;margin-bottom:0px;&amp;ldquo;&amp;gt;
+&amp;lt;img src=&amp;quot;http://cdn.ucl.ac.uk/silva/UCLDefaultLayoutV3/images/corp-identity-bright-blue.gif&amp;rdquo;, width = &amp;ldquo;180&amp;rdquo;, height = &amp;ldquo;310&amp;rdquo; style=&amp;quot;float: right;margin-left: 20px;margin-top: 0px;margin-bottom:0px;&amp;ldquo;&amp;gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

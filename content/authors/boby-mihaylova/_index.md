@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ndph.ox.ac.uk/team/boby-mihaylova"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - 

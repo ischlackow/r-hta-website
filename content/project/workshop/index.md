@@ -1,35 +1,38 @@
-+++
-# Date this page was created.
-date = "2019-01-22"
-
-# Project title.
-title = "R for trial and model-based cost-effectiveness analysis"
-subtitle= ""
-
-# Project summary to display on homepage.
-summary = ""
-
-disable_comments = true
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-##image_preview = "CentroStudi.jpg"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Health economics","R"]
+---
+title: "Workshop: R for trial and model-based cost-effectiveness analysis"
+summary: 
+tags:
+- workshop
+date: "2019-01-22"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
-# Does the project detail page use math formatting?
-math = true
+weight: 1
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-##image = "CentroStudi.jpg"
-caption ="" #"My caption :smile:"
+image: 
+  placement: 2
+  caption: 
+  focal_point: "Center"
+  preview_only: true
 
-+++
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: 
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
 
 This is an annual event organised jointly by the consortium. Academic institutions involved include [UCL](www.ucl.ac.uk), the [University of Bristol](http://www.bristol.ac.uk), the [University of York](https://www.york.ac.uk/), the [University of Oxford](http://www.ox.ac.uk/), [Bangor University](https://www.bangor.ac.uk/).
 
@@ -39,19 +42,6 @@ The objective of this workshop is to explore the use of <tt>R</tt> for CEA as an
 
 The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions. 
 
-1. [11 July 2018](./2018)
-2. [9 July 2019](./2019)
-
-### Scientific Committee
-
-[Howard Thom](http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html), University of Bristol  
-[Gianluca Baio](http://www.statistica.it/gianluca/), University College London  
-[Anthony Hatswell](http://www.deltahat.co.uk/), Delta Hat Limited and University College London  
-[Nathan Green](https://www.imperial.ac.uk/people/nathan.green), Imperial College London  
-[Iryna Schlackow](https://www.herc.ox.ac.uk/team/iryna-schlackow), University of Oxford  
-[Claire Williams](http://www.bristol.ac.uk/social-community-medicine/people/claire-williams/index.html), University of Bristol  
-[Pedro Saramago Goncalves](https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/), University of York  
-[Padraig Dixon](http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html), University of Bristol  
-[Boby Mihaylova](https://www.ndph.ox.ac.uk/team/boby-mihaylova), University of Oxford  
-[Nicky Welton](http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html), University of Bristol 
+1. [11 July 2018](../../workshop/2018)
+2. [9 July 2019](../../workshop/2019)
 
