@@ -4,8 +4,8 @@
 {{ $data := site.Params }}
 
 <!-- Contact widget -->
-<div class="row contact-widget" align="center">
-  <div class="col-12 col-lg-4 section-heading">
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading" align="center">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
