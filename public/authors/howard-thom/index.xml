@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R for HTA</title>
+    <link>/authors/howard-thom/</link>
+      <atom:link href="/authors/howard-thom/index.xml" rel="self" type="application/rss+xml" />
+    <description>R for HTA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
+      <title>R for HTA</title>
+      <link>/authors/howard-thom/</link>
+    </image>
+    
+  </channel>
+</rss>
