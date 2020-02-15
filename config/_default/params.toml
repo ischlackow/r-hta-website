@@ -12,7 +12,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -33,7 +33,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Person"
+site_type = "EducationalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "R for trial and model-based cost-effectiveness analysis"
 
 ############################
 ## Site Features
@@ -58,7 +58,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -71,7 +71,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+#edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -140,7 +140,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "c", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -167,7 +167,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]
@@ -205,10 +205,10 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 1
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = true, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
