@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Associate Professor in Health Economics
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: University of Oxford
+  url: "https://www.ndph.ox.ac.uk/team/boby-mihaylova"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Imperial College London
+  url: "https://www.imperial.ac.uk/people/nathan.green"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Director and Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Delta Hat Limited
+  url: "http://www.deltahat.co.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

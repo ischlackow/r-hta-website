@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Professor in Statistical and Health Economic Modelling 
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: University of Bristol
+  url: "http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

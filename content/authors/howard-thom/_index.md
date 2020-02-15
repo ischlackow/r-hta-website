@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Lecturer in Health Economics
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: University of Bristol
+  url: "http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/overview.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: XXXX
