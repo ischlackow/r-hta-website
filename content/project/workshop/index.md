@@ -1,6 +1,6 @@
 ---
-title: "Workshop: R for trial and model-based cost-effectiveness analysis"
-summary: 
+title: "R for HTA annual workshop"
+summary: "Next edition: 29-30 June 2020. Check for updates!"
 tags:
 - workshop
 date: "2019-01-22"
@@ -42,6 +42,6 @@ The objective of this workshop is to explore the use of <tt>R</tt> for CEA as an
 
 The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions. 
 
-1. [11 July 2018](../../workshop/2018)
-2. [9 July 2019](../../workshop/2019)
+1. [11 July 2018](../../events/workshop/2018)
+2. [9 July 2019](../../events/workshop/2019)
 

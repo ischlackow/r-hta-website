@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>workshop | R for HTA</title>
+    <title>Workshop | R for HTA</title>
     <link>/tags/workshop/</link>
       <atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
-    <description>workshop</description>
+    <description>Workshop</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
-      <title>workshop</title>
+      <title>Workshop</title>
       <link>/tags/workshop/</link>
     </image>
     
     <item>
-      <title>Workshop: R for trial and model-based cost-effectiveness analysis</title>
+      <title>R for HTA annual workshop</title>
       <link>/project/workshop/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/project/workshop/</guid>
@@ -30,18 +30,18 @@
 &lt;p&gt;The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;a href=&#34;../../workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../events/workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;../../workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../events/workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
       <title>R for trial and model-based cost-effectiveness analysis</title>
-      <link>/workshop/2020/</link>
+      <link>/events/workshop/2020/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/workshop/2020/</guid>
+      <guid>/events/workshop/2020/</guid>
       <description>&lt;h2 id=&#34;29-30-june-2020-university-college-london-brbr&#34;&gt;29-30 June 2020, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -153,9 +153,9 @@ To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howa
     
     <item>
       <title>R for trial and model-based cost-effectiveness analysis</title>
-      <link>/workshop/2019/</link>
+      <link>/events/workshop/2019/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/workshop/2019/</guid>
+      <guid>/events/workshop/2019/</guid>
       <description>&lt;h2 id=&#34;9-july-2019-university-college-london-brbr&#34;&gt;9 July 2019, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -309,9 +309,9 @@ To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howa
     
     <item>
       <title>R for trial and model-based cost-effectiveness analysis</title>
-      <link>/workshop/2018/</link>
+      <link>/events/workshop/2018/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/workshop/2018/</guid>
+      <guid>/events/workshop/2018/</guid>
       <description>&lt;h2 id=&#34;11-july-2018-university-college-london-brbr&#34;&gt;11 July 2018, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

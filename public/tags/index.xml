@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>Tags</title>
@@ -13,23 +13,31 @@
     </image>
     
     <item>
-      <title>hackathon</title>
-      <link>/tags/hackathon/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/hackathon/</guid>
+      <title>resource</title>
+      <link>/tags/resource/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/resource/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>short-course</title>
-      <link>/tags/short-course/</link>
+      <title>hackathons</title>
+      <link>/tags/hackathons/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/short-course/</guid>
+      <guid>/tags/hackathons/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>workshop</title>
+      <title>training</title>
+      <link>/tags/training/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
       <link>/tags/workshop/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/workshop/</guid>

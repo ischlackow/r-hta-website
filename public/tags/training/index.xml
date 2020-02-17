@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>training | R for HTA</title>
+    <link>/tags/training/</link>
+      <atom:link href="/tags/training/index.xml" rel="self" type="application/rss+xml" />
+    <description>training</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
+      <title>training</title>
+      <link>/tags/training/</link>
+    </image>
+    
+    <item>
+      <title>Training events</title>
+      <link>/project/training/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/training/</guid>
+      <description>&lt;p&gt;The &lt;tt&gt;R&lt;/tt&gt; for HTA consortium at large organises a series of training events revolved around the use of &lt;tt&gt;R&lt;/tt&gt; specifically for applications in health technology assessment and cost-effectiveness/utility analyses. Here is a list of ours as well as external training events that are relevant. If you organise a short course or summer school in similar topics and would like us to link to it, 
+&lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Summer school: 
+&lt;a href=&#34;http://www.statistica.it/gianluca/teaching/summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian methods in health economics&lt;/a&gt;. Organised annually by &lt;a href=&#34;/authors/gianluca-baio/&#34;&gt;Gianluca Baio&lt;/a&gt; and featuring also &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt; and other colleagues.&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economic Evaluation and Modelling Using &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt;. Organised by &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/padraig-dixon/&#34;&gt;Padraig Dixon&lt;/a&gt; and &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-data-visualisation-and-web-applications-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Introduction to Data Visualisation and Web Applications in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.ucl.ac.uk/short-courses/search-courses/r-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R: An Introduction&lt;/a&gt; at UCL&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

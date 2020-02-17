@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>R for HTA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>R for HTA</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Workshop: R for trial and model-based cost-effectiveness analysis</title>
+      <title>BCEA</title>
+      <link>/resource/bcea/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/bcea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R for HTA annual workshop</title>
       <link>/project/workshop/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/project/workshop/</guid>
@@ -30,34 +38,113 @@
 &lt;p&gt;The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;a href=&#34;../../workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../events/workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;../../workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;../../events/workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Short course</title>
-      <link>/project/short-course/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/project/short-course/</guid>
+      <title>survHE</title>
+      <link>/resource/survhe/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/survhe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hackathon</title>
-      <link>/project/hackathon/</link>
+      <title>Training events</title>
+      <link>/project/training/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/project/hackathon/</guid>
+      <guid>/project/training/</guid>
+      <description>&lt;p&gt;The &lt;tt&gt;R&lt;/tt&gt; for HTA consortium at large organises a series of training events revolved around the use of &lt;tt&gt;R&lt;/tt&gt; specifically for applications in health technology assessment and cost-effectiveness/utility analyses. Here is a list of ours as well as external training events that are relevant. If you organise a short course or summer school in similar topics and would like us to link to it, 
+&lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Summer school: 
+&lt;a href=&#34;http://www.statistica.it/gianluca/teaching/summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian methods in health economics&lt;/a&gt;. Organised annually by &lt;a href=&#34;/authors/gianluca-baio/&#34;&gt;Gianluca Baio&lt;/a&gt; and featuring also &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt; and other colleagues.&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economic Evaluation and Modelling Using &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt;. Organised by &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/padraig-dixon/&#34;&gt;Padraig Dixon&lt;/a&gt; and &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-data-visualisation-and-web-applications-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Introduction to Data Visualisation and Web Applications in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
+&lt;li&gt;Short course: 
+&lt;a href=&#34;https://www.ucl.ac.uk/short-courses/search-courses/r-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R: An Introduction&lt;/a&gt; at UCL&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>flexsurv</title>
+      <link>/resource/flexsurv/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/flexsurv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hesim</title>
+      <link>/resource/hesim/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/hesim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathons</title>
+      <link>/project/hackathons/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/hackathons/</guid>
+      <description>&lt;p&gt;As part of our activities, we organise 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hackathons&lt;/a&gt; &amp;mdash; obviously with a strong &lt;tt&gt;R&lt;/tt&gt; and HTA component&amp;hellip; Our hackathons are an opportunity for keen programmers to come together and solve problems collaboratively. Attendees learn tips, tricks, and best practice from each other. We have already organised two (independent) hackathons in health economics and details are provided below. Problems addressed include optimising cohort Markov models in &lt;tt&gt;R&lt;/tt&gt;, inflating costs to the present year, and automatically converting &lt;tt&gt;Excel&lt;/tt&gt; models to &lt;tt&gt;R&lt;/tt&gt;. Our consortium plan to run hackathons in &lt;tt&gt;R&lt;/tt&gt; for health technology assessment in 2020. Watch this space! You can also 
+&lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt; if you would like to organise a hackathon within your own organisation!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://healthdatacounts.com/2019/11/25/health-economics-in-r-hackathon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in &lt;tt&gt;R&lt;/tt&gt; Hackathon&lt;/a&gt;, London 6-7 November 2019. Organised by &lt;a href=&#34;/authors/nathan-green/&#34;&gt;Nathan Green&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.qucharms.co.uk/news/health-economics-in-r-practical-workshop-and-data-dive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in R: Practical Workshop and Data Dive&lt;/a&gt;, Belfast 21-22 January 2020. Organised by Felicity Lamrock&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>heemod</title>
+      <link>/resource/heemod/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/heemod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>msm</title>
+      <link>/resource/msm/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/msm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mstate</title>
+      <link>/resource/mstate/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/mstate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>missingHE</title>
+      <link>/resource/missinghe/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/missinghe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R for trial and model-based cost-effectiveness analysis</title>
-      <link>/workshop/2020/</link>
+      <link>/events/workshop/2020/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/workshop/2020/</guid>
+      <guid>/events/workshop/2020/</guid>
       <description>&lt;h2 id=&#34;29-30-june-2020-university-college-london-brbr&#34;&gt;29-30 June 2020, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -169,9 +256,9 @@ To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howa
     
     <item>
       <title>R for trial and model-based cost-effectiveness analysis</title>
-      <link>/workshop/2019/</link>
+      <link>/events/workshop/2019/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/workshop/2019/</guid>
+      <guid>/events/workshop/2019/</guid>
       <description>&lt;h2 id=&#34;9-july-2019-university-college-london-brbr&#34;&gt;9 July 2019, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -325,9 +412,9 @@ To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howa
     
     <item>
       <title>R for trial and model-based cost-effectiveness analysis</title>
-      <link>/workshop/2018/</link>
+      <link>/events/workshop/2018/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/workshop/2018/</guid>
+      <guid>/events/workshop/2018/</guid>
       <description>&lt;h2 id=&#34;11-july-2018-university-college-london-brbr&#34;&gt;11 July 2018, University College London &lt;br&gt;&lt;br&gt;&lt;/h2&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Howard THom
+name: Howard Thom
 
 # Username (this should match the folder name)
 authors:

@@ -3,22 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/resource/bcea/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/workshop/</loc>
     <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/short-course/</loc>
+    <loc>/resource/survhe/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/training/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/hackathon/</loc>
+    <loc>/resource/flexsurv/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resource/hesim/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/hackathons/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hackathon/</loc>
+    <loc>/resource/heemod/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resource/msm/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resource/mstate/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resource/missinghe/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resource/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resource/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hackathons/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,22 +88,17 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/training/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/short-course/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <loc>/events/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workshop/2020/</loc>
+    <loc>/events/workshop/2020/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,17 +108,12 @@
   </url>
   
   <url>
-    <loc>/workshop/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workshop/2019/</loc>
+    <loc>/events/workshop/2019/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/workshop/2018/</loc>
+    <loc>/events/workshop/2018/</loc>
     <lastmod>2018-07-09T00:00:00+00:00</lastmod>
   </url>
   
