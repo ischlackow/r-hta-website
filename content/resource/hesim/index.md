@@ -3,6 +3,7 @@ title: "hesim"
 summary: "Discrete and continuous time Markov/semi-Markov models"
 tags:
 - resource
+- markov-models
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).

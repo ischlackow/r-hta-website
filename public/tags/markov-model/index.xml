@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markov-model | R for HTA</title>
+    <link>/tags/markov-model/</link>
+      <atom:link href="/tags/markov-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>markov-model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
+      <title>markov-model</title>
+      <link>/tags/markov-model/</link>
+    </image>
+    
+    <item>
+      <title>heemod</title>
+      <link>/resource/heemod/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/heemod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,7 @@ title: "msm"
 summary: "Continuous-time Markov models fit to panel data and hidden Markov models"
 tags:
 - resource
+- markov-models
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).

@@ -3,6 +3,7 @@ title: "survHE"
 summary: "Survival analysis in health economic evaluation"
 tags:
 - resource
+- survival
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).

@@ -3,6 +3,8 @@ title: "EVSI"
 summary: "Calculation and presentation of the Expected Value of Sample Information"
 tags:
 - resource
+- voi
+- webapp
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).

@@ -68,6 +68,16 @@
   </url>
   
   <url>
+    <loc>/tags/markov-models/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/psa/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -83,7 +93,22 @@
   </url>
   
   <url>
+    <loc>/tags/survival/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/voi/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/webapp/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   

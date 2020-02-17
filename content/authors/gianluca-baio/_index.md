@@ -15,7 +15,7 @@ role: Professor of Statistics and Health Economics
 # Organizations/Affiliations
 organizations:
 - name: University College London
-  url: "www.statistica.it/gianluca"
+  url: http://www.statistica.it/gianluca
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

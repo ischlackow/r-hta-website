@@ -3,6 +3,9 @@ title: "SAVI"
 summary: "Sheffield Accelerated Value of Information"
 tags:
 - resource
+- voi
+- psa
+- webapp
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).
