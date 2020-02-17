@@ -6,9 +6,9 @@ tags:
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://www.statistica.it/gianluca/software/bcea/"
+external_link: ""
 
-weight: 7
+weight: 70
 
 image: 
   placement: 1

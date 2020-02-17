@@ -6,9 +6,9 @@ tags:
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://www.statistica.it/gianluca/project/missing-data/"
 
-weight: 8
+weight: 80
 
 image: 
   placement: 1
@@ -21,13 +21,13 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: 
-   - icon_pack: fab
-     icon: github
-     name: Code
-     url: https://github.com/AnGabrio/missingHE
+- icon_pack: fab
+  icon: github
+  name: Code
+  url: https://github.com/AnGabrio/missingHE
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/giabaio/missingHE/blob/master/inst/doc/missingHE.pdf"
 url_slides: ""
 url_video: ""
 

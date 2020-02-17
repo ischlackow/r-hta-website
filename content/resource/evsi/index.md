@@ -1,14 +1,14 @@
 ---
-title: "hesim"
-summary: "Discrete and continuous time Markov/semi-Markov models"
+title: "EVSI"
+summary: "Calculation and presentation of the Expected Value of Sample Information"
 tags:
 - resource
 date: "2020-02-16"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://devinincerti.com/2019/04/03/hesim_0_2_0.html"
+external_link: "http://www.statistica.it/gianluca/project/voi/"
 
-weight: 40
+weight: 85
 
 image: 
   placement: 1
@@ -17,22 +17,25 @@ image:
   preview_only: true
 
 links:
-# - icon_pack: fab
-#   icon: github
-#   name: Code
-#   url: https://github.com/giabaio/BCEA
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: 
+- icon_pack: fab
+  icon: r-project
+  name: Webapp
+  url: https://egon.stats.ucl.ac.uk/projects/EVSI/
 - icon_pack: fab
   icon: github
   name: Code
-  url: https://github.com/hesim-dev/hesim
-- icon_pack: fab
-  icon: r-project
-  name: page
-  url: https://cran.r-project.org/web/packages/hesim/index.html
-
+  url: https://github.com/annaheath/EVSI
+- icon_pack: 
+  icon: 
+  name: ConVOI website
+  url: https://www.convoi-group.org/
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.1177/0272989X19837983"
 url_slides: ""
 url_video: ""
 

@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>BCEA</title>
-      <link>/resource/bcea/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/resource/bcea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R for HTA annual workshop</title>
       <link>/project/workshop/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
@@ -46,14 +38,6 @@
     </item>
     
     <item>
-      <title>survHE</title>
-      <link>/resource/survhe/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/resource/survhe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Training events</title>
       <link>/project/training/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
@@ -76,22 +60,6 @@
     </item>
     
     <item>
-      <title>flexsurv</title>
-      <link>/resource/flexsurv/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/resource/flexsurv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hesim</title>
-      <link>/resource/hesim/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/resource/hesim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hackathons</title>
       <link>/project/hackathons/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
@@ -106,6 +74,46 @@
 &lt;a href=&#34;http://www.qucharms.co.uk/news/health-economics-in-r-practical-workshop-and-data-dive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in R: Practical Workshop and Data Dive&lt;/a&gt;, Belfast 21-22 January 2020. Organised by Felicity Lamrock&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>BCEA</title>
+      <link>/resource/bcea/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/bcea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAVI</title>
+      <link>/resource/savi/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/savi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survHE</title>
+      <link>/resource/survhe/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/survhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flexsurv</title>
+      <link>/resource/flexsurv/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/flexsurv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hesim</title>
+      <link>/resource/hesim/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/hesim/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -137,6 +145,14 @@
       <link>/resource/missinghe/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/resource/missinghe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EVSI</title>
+      <link>/resource/evsi/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/resource/evsi/</guid>
       <description></description>
     </item>
     

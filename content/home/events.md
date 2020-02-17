@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Online <tt>R</tt> resources"
-subtitle = "Relevant <tt>R</tt> packages and tools for statistical analysis and economic evaluation"
+title = "Events"
+subtitle = "Our events, including the annual workshop, short courses and hackathons"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "resource" 
+  page_type = "project" 
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -42,10 +42,10 @@ subtitle = "Relevant <tt>R</tt> packages and tools for statistical analysis and 
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.

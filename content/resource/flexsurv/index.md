@@ -8,7 +8,7 @@ date: "2020-02-16"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-weight: 3
+weight: 30
 
 image: 
   placement: 1

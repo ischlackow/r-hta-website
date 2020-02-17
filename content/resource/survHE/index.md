@@ -8,7 +8,7 @@ date: "2020-02-16"
 # Optional external URL for project (replaces project detail page).
 external_link: "http://www.statistica.it/gianluca/software/survhe/"
 
-weight: 2
+weight: 20
 
 image: 
   placement: 1
