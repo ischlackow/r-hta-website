@@ -207,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158692767-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-158692767-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -237,7 +275,7 @@
   <meta property="og:description" content="R for trial and model-based cost-effectiveness analysis"><meta property="og:image" content="/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png">
   <meta property="twitter:image" content="/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2019-05-01T00:00:00&#43;00:00">
   
 
   
@@ -597,6 +635,21 @@
     
     
       
+      <li><a href="/authors/d-incerti/">D Incerti</a></li>
+    
+      
+      <li><a href="/authors/g-baio/">G Baio</a></li>
+    
+      
+      <li><a href="/authors/h-thom/">H Thom</a></li>
+    
+      
+      <li><a href="/authors/j-jansen/">J Jansen</a></li>
+    
+      
+      <li><a href="/authors/a-heath/">A Heath</a></li>
+    
+      
       <li><a href="/authors/admin/"></a></li>
     
       
@@ -610,21 +663,6 @@
     
       
       <li><a href="/authors/gianluca-baio/">Gianluca Baio</a></li>
-    
-      
-      <li><a href="/authors/howard-thom/">Howard Thom</a></li>
-    
-      
-      <li><a href="/authors/iryna-schlackow/">Iryna Schlackow</a></li>
-    
-      
-      <li><a href="/authors/nathan-green/">Nathan Green</a></li>
-    
-      
-      <li><a href="/authors/nicky-welton/">Nicky Welton</a></li>
-    
-      
-      <li><a href="/authors/padraig-dixon/">Padraig Dixon</a></li>
     
   </ul>
 

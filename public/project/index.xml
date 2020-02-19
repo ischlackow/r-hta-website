@@ -17,22 +17,13 @@
       <link>/project/workshop/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/project/workshop/</guid>
-      <description>&lt;p&gt;This is an annual event organised jointly by the consortium. Academic institutions involved include 
-&lt;a href=&#34;www.ucl.ac.uk&#34;&gt;UCL&lt;/a&gt;, the 
-&lt;a href=&#34;http://www.bristol.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bristol&lt;/a&gt;, the 
-&lt;a href=&#34;https://www.york.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of York&lt;/a&gt;, the 
-&lt;a href=&#34;http://www.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt;, 
-&lt;a href=&#34;https://www.bangor.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bangor University&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Cost-effectiveness analysis (CEA) and, more generally, health technology assessment (HTA), is often performed using &lt;tt&gt;Excel&lt;/tt&gt;. Despite its (perceived) ease of use, &lt;tt&gt;Excel&lt;/tt&gt; incurs the disadvantages of slow computational speed and, contrary to health economics 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Folk_theorem_%28game_theory%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folk theorem&lt;/a&gt;, a lack of transparency.&lt;/p&gt;
-&lt;p&gt;The objective of this workshop is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for CEA as an alternative to less efficient, generalisable and powerful statistical software. General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; add-on packages, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. Presentations and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our expert speakers have diverse experience in government (including 
-&lt;a href=&#34;http://www.nice.org.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt;), academia, and industry. We also aim at having contributed oral presentations and poster sesssions.&lt;/p&gt;
+      <description>&lt;p&gt;This is an annual event organised jointly by the consortium. Academic institutions involved include &lt;a href=&#34;www.ucl.ac.uk&#34;&gt;UCL&lt;/a&gt;, the &lt;a href=&#34;http://www.bristol.ac.uk&#34;&gt;University of Bristol&lt;/a&gt;, the &lt;a href=&#34;https://www.york.ac.uk/&#34;&gt;University of York&lt;/a&gt;, the &lt;a href=&#34;http://www.ox.ac.uk/&#34;&gt;University of Oxford&lt;/a&gt;, &lt;a href=&#34;https://www.bangor.ac.uk/&#34;&gt;Bangor University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cost-effectiveness analysis (CEA) and, more generally, health technology assessment (HTA), is often performed using &lt;tt&gt;Excel&lt;/tt&gt;. Despite its (perceived) ease of use, &lt;tt&gt;Excel&lt;/tt&gt; incurs the disadvantages of slow computational speed and, contrary to health economics &lt;a href=&#34;https://en.wikipedia.org/wiki/Folk_theorem_(game_theory)&#34;&gt;folk theorem&lt;/a&gt;, a lack of transparency.&lt;/p&gt;
+&lt;p&gt;The objective of this workshop is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for CEA as an alternative to less efficient, generalisable and powerful statistical software. General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; add-on packages, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. Presentations and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our expert speakers have diverse experience in government (including &lt;a href=&#34;http://www.nice.org.uk&#34;&gt;NICE&lt;/a&gt;), academia, and industry. We also aim at having contributed oral presentations and poster sesssions.&lt;/p&gt;
 &lt;p&gt;The first edition of the workshop has been held at UCL in 2018. The links below point to the specific pages for the various editions.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../events/workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;../../events/workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../events/workshop/2018&#34;&gt;11 July 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../events/workshop/2019&#34;&gt;9 July 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -42,19 +33,13 @@
       <link>/project/training/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/project/training/</guid>
-      <description>&lt;p&gt;The &lt;tt&gt;R&lt;/tt&gt; for HTA consortium at large organises a series of training events revolved around the use of &lt;tt&gt;R&lt;/tt&gt; specifically for applications in health technology assessment and cost-effectiveness/utility analyses. Here is a list of ours as well as external training events that are relevant. If you organise a short course or summer school in similar topics and would like us to link to it, 
-&lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;The &lt;tt&gt;R&lt;/tt&gt; for HTA consortium at large organises a series of training events revolved around the use of &lt;tt&gt;R&lt;/tt&gt; specifically for applications in health technology assessment and cost-effectiveness/utility analyses. Here is a list of ours as well as external training events that are relevant. If you organise a short course or summer school in similar topics and would like us to link to it, &lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt;!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Summer school: 
-&lt;a href=&#34;http://www.statistica.it/gianluca/teaching/summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian methods in health economics&lt;/a&gt;. Organised annually by &lt;a href=&#34;/authors/gianluca-baio/&#34;&gt;Gianluca Baio&lt;/a&gt; and featuring also &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt; and other colleagues.&lt;/li&gt;
-&lt;li&gt;Short course: 
-&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economic Evaluation and Modelling Using &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt;. Organised by &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/padraig-dixon/&#34;&gt;Padraig Dixon&lt;/a&gt; and &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Short course: 
-&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
-&lt;li&gt;Short course: 
-&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-data-visualisation-and-web-applications-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Introduction to Data Visualisation and Web Applications in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
-&lt;li&gt;Short course: 
-&lt;a href=&#34;https://www.ucl.ac.uk/short-courses/search-courses/r-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R: An Introduction&lt;/a&gt; at UCL&lt;/li&gt;
+&lt;li&gt;Summer school: &lt;a href=&#34;http://www.statistica.it/gianluca/teaching/summer-school/&#34;&gt;Bayesian methods in health economics&lt;/a&gt;. Organised annually by &lt;a href=&#34;/authors/gianluca-baio/&#34;&gt;Gianluca Baio&lt;/a&gt; and featuring also &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt; and other colleagues.&lt;/li&gt;
+&lt;li&gt;Short course: &lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34;&gt;Economic Evaluation and Modelling Using &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt;. Organised by &lt;a href=&#34;/authors/howard-thom/&#34;&gt;Howard Thom&lt;/a&gt;, &lt;a href=&#34;/authors/padraig-dixon/&#34;&gt;Padraig Dixon&lt;/a&gt; and &lt;a href=&#34;/authors/nicky-welton/&#34;&gt;Nicky Welton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Short course: &lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-r/&#34;&gt;Introduction to &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
+&lt;li&gt;Short course: &lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/introduction-to-data-visualisation-and-web-applications-using-r/&#34;&gt; Introduction to Data Visualisation and Web Applications in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol&lt;/li&gt;
+&lt;li&gt;Short course: &lt;a href=&#34;https://www.ucl.ac.uk/short-courses/search-courses/r-introduction&#34;&gt;R: An Introduction&lt;/a&gt; at UCL&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -64,14 +49,10 @@
       <link>/project/hackathons/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/project/hackathons/</guid>
-      <description>&lt;p&gt;As part of our activities, we organise 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hackathons&lt;/a&gt; &amp;mdash; obviously with a strong &lt;tt&gt;R&lt;/tt&gt; and HTA component&amp;hellip; Our hackathons are an opportunity for keen programmers to come together and solve problems collaboratively. Attendees learn tips, tricks, and best practice from each other. We have already organised two (independent) hackathons in health economics and details are provided below. Problems addressed include optimising cohort Markov models in &lt;tt&gt;R&lt;/tt&gt;, inflating costs to the present year, and automatically converting &lt;tt&gt;Excel&lt;/tt&gt; models to &lt;tt&gt;R&lt;/tt&gt;. Our consortium plan to run hackathons in &lt;tt&gt;R&lt;/tt&gt; for health technology assessment in 2020. Watch this space! You can also 
-&lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt; if you would like to organise a hackathon within your own organisation!&lt;/p&gt;
+      <description>&lt;p&gt;As part of our activities, we organise &lt;a href=&#34;https://en.wikipedia.org/wiki/Hackathon&#34;&gt;hackathons&lt;/a&gt; &amp;mdash; obviously with a strong &lt;tt&gt;R&lt;/tt&gt; and HTA component&amp;hellip; Our hackathons are an opportunity for keen programmers to come together and solve problems collaboratively. Attendees learn tips, tricks, and best practice from each other. We have already organised two (independent) hackathons in health economics and details are provided below. Problems addressed include optimising cohort Markov models in &lt;tt&gt;R&lt;/tt&gt;, inflating costs to the present year, and automatically converting &lt;tt&gt;Excel&lt;/tt&gt; models to &lt;tt&gt;R&lt;/tt&gt;. Our consortium plan to run hackathons in &lt;tt&gt;R&lt;/tt&gt; for health technology assessment in 2020. Watch this space! You can also &lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt; if you would like to organise a hackathon within your own organisation!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://healthdatacounts.com/2019/11/25/health-economics-in-r-hackathon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in &lt;tt&gt;R&lt;/tt&gt; Hackathon&lt;/a&gt;, London 6-7 November 2019. Organised by &lt;a href=&#34;/authors/nathan-green/&#34;&gt;Nathan Green&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.qucharms.co.uk/news/health-economics-in-r-practical-workshop-and-data-dive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in R: Practical Workshop and Data Dive&lt;/a&gt;, Belfast 21-22 January 2020. Organised by Felicity Lamrock&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://healthdatacounts.com/2019/11/25/health-economics-in-r-hackathon/&#34;&gt;Health Economics in &lt;tt&gt;R&lt;/tt&gt; Hackathon&lt;/a&gt;, London 6-7 November 2019. Organised by &lt;a href=&#34;/authors/nathan-green/&#34;&gt;Nathan Green&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qucharms.co.uk/news/health-economics-in-r-practical-workshop-and-data-dive&#34;&gt;Health Economics in R: Practical Workshop and Data Dive&lt;/a&gt;, Belfast 21-22 January 2020. Organised by Felicity Lamrock&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

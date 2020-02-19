@@ -1,0 +1,13 @@
++++
+title = "When simple becomes complicated: Why Excel should lose its place at the top table"
+date = 2016-01-01
+authors = ["G Baio", "A Heath"]
+publication_types = ["2"]
+abstract = "Traditionally, the majority of health economic modelling has been performed in spreadsheet calculators such as Microsoft Excel as it is perceived to be more transparent and easy to use. However, as the modelling requirements become more realistic and therefore complex spreadsheets become increasingly cumbersome and difficult to manage. We argue that specialist statistical packages such as R should be used when the models become suitably complex. We acknowledge the difficulties associated with script based statistical software but argue that user written packages designed for health technology assessments simplify the analysis when compared to spreadsheet calculators. Additionally, we argue that the production of web-applications based on R will allow the statistical capabilities of specialist software to be available for all. All that is needed is a dialogue between the modellers and the academic to make the software available for all."
+featured = true
+projects = ["voi"]
+publication = "*Global & Regional Health Technology Assessment*"
+url_pdf = "http://www.grhta.com/article/d8ca66f6-5396-41ea-a73d-d0b0b2a25c87"
+doi = "10.5301/grhta.5000247"
++++
+

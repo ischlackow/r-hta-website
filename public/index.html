@@ -207,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158692767-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-158692767-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -743,8 +781,7 @@
     <h1>Mission</h1>
 
     <p><tt>R</tt> for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of <tt>R</tt> for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. We advocate the use of proper statistical software, of which <tt>R</tt> is a very popular and efficient example, to be used in the whole process of health economic evaluation.</p>
-<p>General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including 
-<a href="http://www.nice.org.uk/" target="_blank" rel="noopener">NICE</a> in the UK), academia, and industry.</p>
+<p>General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including <a href="http://www.nice.org.uk/">NICE</a> in the UK), academia, and industry.</p>
 
 
 
@@ -2398,17 +2435,188 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Recent Publications</h1>
-    
+    <p>A complete list of relevant publications can be found <a href="/publication">here</a></p>
   </div>
   <div class="col-12 col-lg-8">
 
-    <div class="alert alert-note">
+    <!--
+<div class="alert alert-note">
   <div>
     Quickly discover relevant content by <a href="/publication/">filtering publications</a>.
   </div>
 </div>
 
+-->
 
+
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/authors/d-incerti/">D Incerti</a></span>, <span><a href="/authors/h-thom/">H Thom</a></span>, <span><a href="/authors/g-baio/">G Baio</a></span>, <span><a href="/authors/j-jansen/">J Jansen</a></span>
+
+  </span>
+  (2019).
+  <a href="/publication/incertietal-2018/">R you still using Excel? Why we need modern software tools for health technology assessment</a>.
+  <em>Value in Health</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/incertietal-2018/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.jval.2019.01.003" target="_blank" rel="noopener">
+    
+    PDF
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.statistica.it/gianluca/teaching/r-hta-workshop" target="_blank" rel="noopener">
+    
+    R-HTA website
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/authors/g-baio/">G Baio</a></span>, <span><a href="/authors/a-heath/">A Heath</a></span>
+
+  </span>
+  (2016).
+  <a href="/publication/baio-heath-2016/">When simple becomes complicated: Why Excel should lose its place at the top table</a>.
+  <em>Global &amp; Regional Health Technology Assessment</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.grhta.com/article/d8ca66f6-5396-41ea-a73d-d0b0b2a25c87" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/baio-heath-2016/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5301/grhta.5000247" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
     
 
     

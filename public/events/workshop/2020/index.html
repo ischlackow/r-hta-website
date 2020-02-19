@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="29-30 June 2020, University College London   Training event (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq)&lt;/a&gt;, University College London, United Kingdom    Main workshop (30 June): Room G12, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq&lt;/a&gt;), University College London, United Kingdom.   Background and objectives It is our pleasure to announce a workshop and training event on the use of R for trial and model-based cost-effectiveness analysis (CEA).">
+  <meta name="description" content="29-30 June 2020, University College London   Training event (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq), University College London, United Kingdom    Main workshop (30 June): Room G12, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq), University College London, United Kingdom.   Background and objectives It is our pleasure to announce a workshop and training event on the use of R for trial and model-based cost-effectiveness analysis (CEA).">
 
   
   <link rel="alternate" hreflang="en-us" href="/events/workshop/2020/">
@@ -207,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158692767-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-158692767-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -232,7 +270,7 @@
   <meta property="og:site_name" content="R for HTA">
   <meta property="og:url" content="/events/workshop/2020/">
   <meta property="og:title" content="R for trial and model-based cost-effectiveness analysis | R for HTA">
-  <meta property="og:description" content="29-30 June 2020, University College London   Training event (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq)&lt;/a&gt;, University College London, United Kingdom    Main workshop (30 June): Room G12, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq&lt;/a&gt;), University College London, United Kingdom.   Background and objectives It is our pleasure to announce a workshop and training event on the use of R for trial and model-based cost-effectiveness analysis (CEA)."><meta property="og:image" content="/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png">
+  <meta property="og:description" content="29-30 June 2020, University College London   Training event (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq), University College London, United Kingdom    Main workshop (30 June): Room G12, 1-19 in Torrington Place (https://goo.gl/maps/RtR3Ypug2Dq), University College London, United Kingdom.   Background and objectives It is our pleasure to announce a workshop and training event on the use of R for trial and model-based cost-effectiveness analysis (CEA)."><meta property="og:image" content="/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png">
   <meta property="twitter:image" content="/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -644,18 +682,16 @@
       <h2 id="29-30-june-2020-university-college-london-brbr">29-30 June 2020, University College London <br><br></h2>
 <div class="alert alert-note">
   <div>
-    <b>Training event</b> (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place <a href ="https://goo.gl/maps/RtR3Ypug2Dq">(<a href="https://goo.gl/maps/RtR3Ypug2Dq)%3C/a%3E,">https://goo.gl/maps/RtR3Ypug2Dq)&lt;/a&gt;,</a> University College London, United Kingdom <br><br>
+    <b>Training event</b> (29 June): Torrington (1-19) 113 - Public Cluster, 1-19 in Torrington Place <a href ="https://goo.gl/maps/RtR3Ypug2Dq">(<a href="https://goo.gl/maps/RtR3Ypug2Dq">https://goo.gl/maps/RtR3Ypug2Dq</a>)</a>, University College London, United Kingdom <br><br>
   </div>
 </div>
 <div class="alert alert-note">
   <div>
-    <b>Main workshop</b> (30 June): Room G12, 1-19 in Torrington Place (<a href ="https://goo.gl/maps/RtR3Ypug2Dq"><a href="https://goo.gl/maps/RtR3Ypug2Dq%3C/a%3E),">https://goo.gl/maps/RtR3Ypug2Dq&lt;/a&gt;),</a> University College London, United Kingdom. <br><br>
+    <b>Main workshop</b> (30 June): Room G12, 1-19 in Torrington Place (<a href ="https://goo.gl/maps/RtR3Ypug2Dq"><a href="https://goo.gl/maps/RtR3Ypug2Dq">https://goo.gl/maps/RtR3Ypug2Dq</a></a>), University College London, United Kingdom. <br><br>
   </div>
 </div>
 <h2 id="background-and-objectives"><strong>Background and objectives</strong></h2>
-<p>It is our pleasure to announce a workshop and training event on the use of <tt>R</tt> for trial and model-based cost-effectiveness analysis (CEA). This follows our successful workshops on 
-<a href="http://www.statistica.it/gianluca/teaching/r-hta-workshop/2018/" target="_blank" rel="noopener"><tt>R</tt> for CEA in 2018</a> and 
-<a href="http://www.statistica.it/gianluca/teaching/r-hta-workshop/2019/" target="_blank" rel="noopener">2019</a>.</p>
+<p>It is our pleasure to announce a workshop and training event on the use of <tt>R</tt> for trial and model-based cost-effectiveness analysis (CEA). This follows our successful workshops on <a href="http://www.statistica.it/gianluca/teaching/r-hta-workshop/2018/"><tt>R</tt> for CEA in 2018</a> and <a href="http://www.statistica.it/gianluca/teaching/r-hta-workshop/2019/">2019</a>.</p>
 <!--
 Our event will begin with a __half-day short course__ on <tt>R</tt> for decision trees and Markov models and the use of the [<tt>BCEA</tt>](http://www.statistica.it/gianluca/software/bcea/) package for graphical and statistical analysis of results; this will be delivered by [Gianluca Baio](www.statistica.it/gianluca) of UCL and [Howard Thom](http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html) of Bristol University.
 
@@ -727,26 +763,16 @@ To submit an abstract, please send it to [howard.thom@bristol.ac.uk](mailto:howa
 <p><br><br>
 &ndash;&gt;</p>
 <h3 id="scientific-committee">Scientific Committee</h3>
-<p>
-<a href="http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html" target="_blank" rel="noopener">Howard Thom</a>, University of Bristol<br>
-
-<a href="http://www.statistica.it/gianluca/" target="_blank" rel="noopener">Gianluca Baio</a>, University College London<br>
-
-<a href="http://www.deltahat.co.uk/" target="_blank" rel="noopener">Anthony Hatswell</a>, Delta Hat Limited and University College London<br>
-
-<a href="https://www.imperial.ac.uk/people/nathan.green" target="_blank" rel="noopener">Nathan Green</a>, Imperial College London<br>
-
-<a href="https://www.herc.ox.ac.uk/team/iryna-schlackow" target="_blank" rel="noopener">Iryna Schlackow</a>, University of Oxford<br>
-
-<a href="http://www.bristol.ac.uk/social-community-medicine/people/claire-williams/index.html" target="_blank" rel="noopener">Claire Williams</a>, University of Bristol<br>
-
-<a href="https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/" target="_blank" rel="noopener">Pedro Saramago Goncalves</a>, University of York<br>
-
-<a href="http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html" target="_blank" rel="noopener">Padraig Dixon</a>, University of Bristol<br>
-
-<a href="https://www.ndph.ox.ac.uk/team/boby-mihaylova" target="_blank" rel="noopener">Boby Mihaylova</a>, University of Oxford<br>
-
-<a href="http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html" target="_blank" rel="noopener">Nicky Welton</a>, University of Bristol</p>
+<p><a href="http://www.bristol.ac.uk/social-community-medicine/people/howard-h-thom/index.html">Howard Thom</a>, University of Bristol<br>
+<a href="http://www.statistica.it/gianluca/">Gianluca Baio</a>, University College London<br>
+<a href="http://www.deltahat.co.uk/">Anthony Hatswell</a>, Delta Hat Limited and University College London<br>
+<a href="https://www.imperial.ac.uk/people/nathan.green">Nathan Green</a>, Imperial College London<br>
+<a href="https://www.herc.ox.ac.uk/team/iryna-schlackow">Iryna Schlackow</a>, University of Oxford<br>
+<a href="http://www.bristol.ac.uk/social-community-medicine/people/claire-williams/index.html">Claire Williams</a>, University of Bristol<br>
+<a href="https://www.york.ac.uk/che/staff/research/pedro-saramago-goncalves/">Pedro Saramago Goncalves</a>, University of York<br>
+<a href="http://www.bristol.ac.uk/social-community-medicine/people/padraig-c-dixon/overview.html">Padraig Dixon</a>, University of Bristol<br>
+<a href="https://www.ndph.ox.ac.uk/team/boby-mihaylova">Boby Mihaylova</a>, University of Oxford<br>
+<a href="http://www.bristol.ac.uk/social-community-medicine/people/nicky-j-welton/index.html">Nicky Welton</a>, University of Bristol</p>
 
     </div>
 

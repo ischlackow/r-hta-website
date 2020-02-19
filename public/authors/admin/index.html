@@ -207,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158692767-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-158692767-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -672,8 +710,7 @@
     
 
     <p><tt>R</tt> for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of <tt>R</tt> for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. We advocate the use of proper statistical software, of which <tt>R</tt> is a very popular and efficient example, to be used in the whole process of health economic evaluation.</p>
-<p>General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including 
-<a href="http://www.nice.org.uk/" target="_blank" rel="noopener">NICE</a> in the UK), academia, and industry.</p>
+<p>General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including <a href="http://www.nice.org.uk/">NICE</a> in the UK), academia, and industry.</p>
 
 
 

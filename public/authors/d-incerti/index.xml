@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Incerti | R for HTA</title>
+    <link>/authors/d-incerti/</link>
+      <atom:link href="/authors/d-incerti/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Incerti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
+      <title>D Incerti</title>
+      <link>/authors/d-incerti/</link>
+    </image>
+    
+    <item>
+      <title>R you still using Excel? Why we need modern software tools for health technology assessment</title>
+      <link>/publication/incertietal-2018/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/incertietal-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
@@ -13,13 +13,52 @@
     </image>
     
     <item>
+      <title>D Incerti</title>
+      <link>/authors/d-incerti/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/d-incerti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Baio</title>
+      <link>/authors/g-baio/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/g-baio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Thom</title>
+      <link>/authors/h-thom/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/h-thom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Jansen</title>
+      <link>/authors/j-jansen/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/j-jansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Heath</title>
+      <link>/authors/a-heath/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/a-heath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. We advocate the use of proper statistical software, of which &lt;tt&gt;R&lt;/tt&gt; is a very popular and efficient example, to be used in the whole process of health economic evaluation.&lt;/p&gt;
-&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including 
-&lt;a href=&#34;http://www.nice.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
+&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including &lt;a href=&#34;http://www.nice.org.uk/&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
 </description>
     </item>
     
