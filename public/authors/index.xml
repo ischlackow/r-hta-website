@@ -5,12 +5,22 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/gianluca-baio/</link>
+      <pubDate>Mon, 04 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>/authors/gianluca-baio/</guid>
+      <description>&lt;p&gt;My main interests are in Bayesian statistical modelling for cost effectiveness analysis and decision-making problems in the health systems, hierarchical/multilevel models and causal inference using the decision-theoretic approach.&lt;/p&gt;
+&lt;p&gt;I lead the Statistics for Health Economic Evaluation research group within the department of Statistical Science. Our activity revolves around the development and application of Bayesian statistical methodology for health economic evaluation, e.g. cost-effectiveness or cost-utility analysis. We work in close collaboration with academics both within UCL and at other institutions and our activities include a series of seminars aimed at statisticians, health economists and clinicians working in economic evaluations. I collaborate with the UK National Institute for Health and Care Excellence (NICE) as a Scientific Advisor on Health Technology Appraisal projects.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>D Incerti</title>
@@ -58,7 +68,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. We advocate the use of proper statistical software, of which &lt;tt&gt;R&lt;/tt&gt; is a very popular and efficient example, to be used in the whole process of health economic evaluation.&lt;/p&gt;
-&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including &lt;a href=&#34;http://www.nice.org.uk/&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
+&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including 
+&lt;a href=&#34;http://www.nice.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
 </description>
     </item>
     
@@ -86,16 +97,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/claire-williams/</guid>
       <description>&lt;p&gt;Nathan Green&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/gianluca-baio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/gianluca-baio/</guid>
-      <description>&lt;p&gt;My main interests are in Bayesian statistical modelling for cost effectiveness analysis and decision-making problems in the health systems, hierarchical/multilevel models and causal inference using the decision-theoretic approach.&lt;/p&gt;
-&lt;p&gt;I lead the Statistics for Health Economic Evaluation research group within the department of Statistical Science. Our activity revolves around the development and application of Bayesian statistical methodology for health economic evaluation, e.g. cost-effectiveness or cost-utility analysis. We work in close collaboration with academics both within UCL and at other institutions and our activities include a series of seminars aimed at statisticians, health economists and clinicians working in economic evaluations. I collaborate with the UK National Institute for Health and Care Excellence (NICE) as a Scientific Advisor on Health Technology Appraisal projects.&lt;/p&gt;
 </description>
     </item>
     

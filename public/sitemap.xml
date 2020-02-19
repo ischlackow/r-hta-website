@@ -143,12 +143,27 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <loc>/authors/gianluca-baio/</loc>
+    <lastmod>2019-11-04T16:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-11-04T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ispor-2019/</loc>
+    <lastmod>2019-11-04T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-11-04T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,6 +208,11 @@
   </url>
   
   <url>
+    <loc>/talk/ispor-2018/</loc>
+    <lastmod>2018-11-14T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/workshop/2018/</loc>
     <lastmod>2018-07-09T00:00:00+00:00</lastmod>
   </url>
@@ -234,10 +254,6 @@
   </url>
   
   <url>
-    <loc>/authors/gianluca-baio/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/howard-thom/</loc>
   </url>
   
@@ -267,10 +283,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
 </urlset>

@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Improving efficiency in HTA: the role of open-source models and more advanced software choice</title>
+      <link>/talk/ispor-2019/</link>
+      <pubDate>Mon, 04 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>/talk/ispor-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R you seriously still using Excel? The many advantages of open source decision modelling in efficient programming languages</title>
+      <link>/talk/ispor-2018/</link>
+      <pubDate>Wed, 14 Nov 2018 16:00:00 +0000</pubDate>
+      <guid>/talk/ispor-2018/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

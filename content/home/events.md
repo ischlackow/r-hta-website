@@ -74,4 +74,3 @@ subtitle = "Our events, including the annual workshop, short courses and hackath
  # CSS class.
  css_class = ""
 +++
-
