@@ -55,20 +55,20 @@ image:
   focal_point: Right
 
 links:
-- icon: 
-  icon_pack: 
+- icon: chalkboard-teacher
+  icon_pack: fas
   name: Slides (G Baio)
   url: https://www.ispor.org/docs/default-source/presentations/89214pdf.pdf?sfvrsn=c6e8cba1_0
-- icon: 
-  icon_pack: 
+- icon: chalkboard-teacher
+  icon_pack: fas
   name: Slides (J Jansen)
   url: https://www.ispor.org/docs/default-source/presentations/89213pdf.pdf?sfvrsn=2f454d12_0
-- icon: 
-  icon_pack: 
+- icon: chalkboard-teacher
+  icon_pack: fas
   name: Slides (D Incerti)
   url: https://www.ispor.org/docs/default-source/presentations/89212pdf.pdf?sfvrsn=9af42964_0
-- icon: 
-  icon_pack: 
+- icon: chalkboard-teacher
+  icon_pack: fas
   name: Slides (H Thom)
   url: https://www.ispor.org/docs/default-source/presentations/89211pdf.pdf?sfvrsn=ed976b4e_0
 url_code: ""

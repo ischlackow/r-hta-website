@@ -36,8 +36,8 @@ image:
   focal_point: Right
 
 links:
-- icon: 
-  icon_pack: 
+- icon: chalkboard-teacher
+  icon_pack: fas
   name: Slides
   url: https://www.ispor.org/docs/default-source/euro2019/session105012.pdf?sfvrsn=9af4dd95_0
 url_code: ""
