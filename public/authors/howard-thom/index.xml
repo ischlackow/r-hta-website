@@ -5,12 +5,20 @@
     <link>/authors/howard-thom/</link>
       <atom:link href="/authors/howard-thom/index.xml" rel="self" type="application/rss+xml" />
     <description>R for HTA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>R for HTA</title>
       <link>/authors/howard-thom/</link>
     </image>
+    
+    <item>
+      <title>R for Health Technology Assessment</title>
+      <link>/talk/nice-2020/</link>
+      <pubDate>Mon, 02 Mar 2020 16:00:00 +0000</pubDate>
+      <guid>/talk/nice-2020/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

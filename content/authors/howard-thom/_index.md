@@ -69,4 +69,6 @@ user_groups:
 - Co-director
 ---
 
-Howard Thom ...
+I am a lecturer in health economics and research fellow in statistical modelling at the University of Bristol. I work on a variety of methodological and applied problems in network meta-analysis (NMA), population adjusted indirect treatment comparison, health economic modelling, and value of information analysis. My methodological focus is on disconnected evidence networks in NMA, structural uncertainty in health economic modelling, and the use of value of information analysis to design adaptive trials. 
+
+I have been building health economic models in R for almost 10 years. These have included decision trees, multistate models, and microsimulation models. One of my models (the recently published directly acting oral anticoagulants for atrial fibrillation Markov model) is freely available from [this GitHub repository](https://github.com/Bogdasayen/DOACs-AF-Economic-model). In addition to being co-organiser of the R for HTA group, I lead the two-day short course on [economic evaluation modelling in <tt>R</tt>](https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/) at the University of Bristol.

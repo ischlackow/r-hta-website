@@ -69,4 +69,4 @@ user_groups:
 - Scientific committee 
 ---
 
-Padraig Dixon...
+I am a Research Fellow in Health Economics in the Department of Population Health and the MRC Integrative Epidemiology Unit in Bristol Medical School. My research interests are in the use of genetic data and related methodologies (especially Mendelian Randomization) to study the causal effect of prevalent traits, behaviours and health conditions on economic outcomes such healthcare costs.  I hold degrees in Economics from Trinity College Dublin (BA) and Nuffield College, Oxford (MPhil and DPhil), and in Health Economics from the University of York (MSc).

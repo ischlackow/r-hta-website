@@ -5,12 +5,24 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/howard-thom/</link>
+      <pubDate>Mon, 02 Mar 2020 16:00:00 +0000</pubDate>
+      <guid>/authors/howard-thom/</guid>
+      <description>&lt;p&gt;I am a lecturer in health economics and research fellow in statistical modelling at the University of Bristol. I work on a variety of methodological and applied problems in network meta-analysis (NMA), population adjusted indirect treatment comparison, health economic modelling, and value of information analysis. My methodological focus is on disconnected evidence networks in NMA, structural uncertainty in health economic modelling, and the use of value of information analysis to design adaptive trials.&lt;/p&gt;
+&lt;p&gt;I have been building health economic models in R for almost 10 years. These have included decision trees, multistate models, and microsimulation models. One of my models (the recently published directly acting oral anticoagulants for atrial fibrillation Markov model) is freely available from 
+&lt;a href=&#34;https://github.com/Bogdasayen/DOACs-AF-Economic-model&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt;. In addition to being co-organiser of the R for HTA group, I lead the two-day short course on 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;economic evaluation modelling in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -68,7 +80,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. We advocate the use of proper statistical software, of which &lt;tt&gt;R&lt;/tt&gt; is a very popular and efficient example, to be used in the whole process of health economic evaluation.&lt;/p&gt;
-&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available R add-on packages, as well as ways to help users get the most out of R for CEA. Presentations and public discussions are used to address the computational and transparency advantages of R over Excel for CEA and for easing collaboration. Our members have diverse experience in government (including 
+&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; 
+&lt;a href=&#34;#resources&#34;&gt;add-on packages&lt;/a&gt;, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. 
+&lt;a href=&#34;#talk&#34;&gt;Presentations&lt;/a&gt; and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our members have diverse experience in government (including 
 &lt;a href=&#34;http://www.nice.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
 </description>
     </item>
@@ -102,19 +116,20 @@
     
     <item>
       <title></title>
-      <link>/authors/howard-thom/</link>
+      <link>/authors/iryna-schlackow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/howard-thom/</guid>
-      <description>&lt;p&gt;Howard Thom &amp;hellip;&lt;/p&gt;
+      <guid>/authors/iryna-schlackow/</guid>
+      <description>&lt;p&gt;Iryna Schlackow&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/iryna-schlackow/</link>
+      <link>/authors/james-omahony/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/iryna-schlackow/</guid>
-      <description>&lt;p&gt;Iryna Schlackow&amp;hellip;&lt;/p&gt;
+      <guid>/authors/james-omahony/</guid>
+      <description>&lt;p&gt;Dr O&#39;Mahony holds a BA in economics and philosophy from Trinity College Dublin, an MA in economics from University College Dublin and a PhD from Trinity College Dublin. He has always been interested in the way that economics influences public policy. Following his master&#39;s studies he worked at Goodbody Economic Consultants in Dublin, then a subsidiary of Goodbody Stockbrokers. His work at Goodbody&#39;s involved research for both public and private sector clients. While he found the consulting role interesting, he was keen to gain a sector specialty. Seeing health economics as a growing field with a large public policy element he decided to return to academics. James was awarded a Health Economics Fellowship by Ireland&#39;s Health Research Board (HRB). During his doctoral research James spent two years at the Department of Public Health at the Erasmus Medical Centre at Rotterdam, the Netherlands.&lt;/p&gt;
+&lt;p&gt;During his time there James worked with the MISCAN microsimulation model of cancer prevention. His thesis concerned methodological questions in cost-effectiveness analysis (CEA), primarily relating to the fit of CEA models to policy questions. James spent the final year of his PhD studies working as an intern at the Health Information and Quality Authority (HIQA), where he contributed to both the organisation&#39;s Budget Impact Analysis (BIA) guidelines and to a CEA of breast screening for women of above average risk of disease. James now works at Trinity College Dublin as a postdoctoral researcher on the CERVIVA cervical cancer screening grant and is supported by a HRB Interdisciplinary Capacity Enhancement (ICE) award. He works in collaboration with clinical research specialists from Trinity&#39;s Department of Histopathology at the Coombe Hospital, Dublin.&lt;/p&gt;
 </description>
     </item>
     
@@ -141,7 +156,7 @@
       <link>/authors/padraig-dixon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/padraig-dixon/</guid>
-      <description>&lt;p&gt;Padraig Dixon&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;I am a Research Fellow in Health Economics in the Department of Population Health and the MRC Integrative Epidemiology Unit in Bristol Medical School. My research interests are in the use of genetic data and related methodologies (especially Mendelian Randomization) to study the causal effect of prevalent traits, behaviours and health conditions on economic outcomes such healthcare costs.  I hold degrees in Economics from Trinity College Dublin (BA) and Nuffield College, Oxford (MPhil and DPhil), and in Health Economics from the University of York (MSc).&lt;/p&gt;
 </description>
     </item>
     
