@@ -6,6 +6,8 @@ name: Gianluca Baio
 authors:
 - gianluca-baio
 
+weight: 10
+
 # Is this the primary user of the site?
 superuser: true
 

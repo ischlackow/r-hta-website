@@ -6,6 +6,8 @@ name: Howard Thom
 authors:
 - howard-thom
 
+weight: 20
+
 # Is this the primary user of the site?
 superuser: false
 
