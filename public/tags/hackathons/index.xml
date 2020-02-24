@@ -17,10 +17,14 @@
       <link>/project/hackathons/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/project/hackathons/</guid>
-      <description>&lt;p&gt;As part of our activities, we organise &lt;a href=&#34;https://en.wikipedia.org/wiki/Hackathon&#34;&gt;hackathons&lt;/a&gt; &amp;mdash; obviously with a strong &lt;tt&gt;R&lt;/tt&gt; and HTA component&amp;hellip; Our hackathons are an opportunity for keen programmers to come together and solve problems collaboratively. Attendees learn tips, tricks, and best practice from each other. We have already organised two (independent) hackathons in health economics and details are provided below. Problems addressed include optimising cohort Markov models in &lt;tt&gt;R&lt;/tt&gt;, inflating costs to the present year, and automatically converting &lt;tt&gt;Excel&lt;/tt&gt; models to &lt;tt&gt;R&lt;/tt&gt;. Our consortium plan to run hackathons in &lt;tt&gt;R&lt;/tt&gt; for health technology assessment in 2020. Watch this space! You can also &lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt; if you would like to organise a hackathon within your own organisation!&lt;/p&gt;
+      <description>&lt;p&gt;As part of our activities, we organise 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hackathons&lt;/a&gt; &amp;mdash; obviously with a strong &lt;tt&gt;R&lt;/tt&gt; and HTA component&amp;hellip; Our hackathons are an opportunity for keen programmers to come together and solve problems collaboratively. Attendees learn tips, tricks, and best practice from each other. We have already organised two (independent) hackathons in health economics and details are provided below. Problems addressed include optimising cohort Markov models in &lt;tt&gt;R&lt;/tt&gt;, inflating costs to the present year, and automatically converting &lt;tt&gt;Excel&lt;/tt&gt; models to &lt;tt&gt;R&lt;/tt&gt;. Our consortium plan to run hackathons in &lt;tt&gt;R&lt;/tt&gt; for health technology assessment in 2020. Watch this space! You can also 
+&lt;a href=&#34;mailto:info@r-hta.org&#34;&gt;contact us&lt;/a&gt; if you would like to organise a hackathon within your own organisation!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://healthdatacounts.com/2019/11/25/health-economics-in-r-hackathon/&#34;&gt;Health Economics in &lt;tt&gt;R&lt;/tt&gt; Hackathon&lt;/a&gt;, London 6-7 November 2019. Organised by &lt;a href=&#34;/authors/nathan-green/&#34;&gt;Nathan Green&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.qucharms.co.uk/news/health-economics-in-r-practical-workshop-and-data-dive&#34;&gt;Health Economics in R: Practical Workshop and Data Dive&lt;/a&gt;, Belfast 21-22 January 2020. Organised by Felicity Lamrock&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://healthdatacounts.com/2019/11/25/health-economics-in-r-hackathon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in &lt;tt&gt;R&lt;/tt&gt; Hackathon&lt;/a&gt;, London 6-7 November 2019. Organised by &lt;a href=&#34;/authors/nathan-green/&#34;&gt;Nathan Green&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.qucharms.co.uk/news/health-economics-in-r-practical-workshop-and-data-dive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Economics in R: Practical Workshop and Data Dive&lt;/a&gt;, Belfast 21-22 January 2020. Organised by Felicity Lamrock&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

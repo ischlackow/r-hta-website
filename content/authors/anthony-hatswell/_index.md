@@ -69,4 +69,6 @@ user_groups:
 - Scientific committee
 ---
 
-Anthony Hatswell...
+Anthony Hatswell is a health economist and statistician. After his education at the University of York, he worked at Sanofi and GSK, as well as in consulting where he now runs [Delta Hat](http://www.deltahat.co.uk/). 
+
+In addition to this he performs research at UCL where he looks at statistical methods to analyse uncontrolled clinical studies (otherwise known as single arm trials) and sits on the NICE interventional procedures committee. His published work includes meta-analyses of utility values in multiple myeloma, analysis of quality of life data by time to death, and numerous economic models.

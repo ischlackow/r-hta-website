@@ -69,4 +69,6 @@ user_groups:
 - Scientific committee 
 ---
 
-Nathan Green...
+I am a Statistician and Mathematical Modeller Research Fellow in the Department of Infectious Disease Epidemiology, Faculty of Medicine, Imperial College London. I am also involved with the Statistics, Modelling and Economics Department at Public Health England. 
+
+I have a number of years experience working on a wide range of projects across government and academia in defence and health. I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool. After working for the Ministry of Defence for several years, applying novel Bayesian Inference ideas, I moved back into academia and the field of public health in 2010.

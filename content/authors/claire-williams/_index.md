@@ -69,4 +69,10 @@ user_groups:
 - Scientific committee 
 ---
 
-Nathan Green...
+Claire Williams joined Health Economics Research Centre (HERC) at the University of Oxford in August 2019 as a Senior Researcher focused on cardiovascular disease modelling. She works on lifetime risk projections of cardiovascular events and associated healthcare costs for individual patient profiles based on large randomised control trials (REVEAL, CTT).
+
+Immediately prior to joining HERC, Claire worked at University of Bristol on cost-effectiveness modelling and Value of Information analysis to evaluate the use of wound dressings to reduce surgical site infections. 
+
+Claire brings with her extensive experience as a medical statistician in both the NHS and academia. She completed her PhD exploring the potential of the continuous-time approach to multi-state modelling in an epidemiological and health economics context within the Health Economics and Health Technology Assessment research group at the University of Glasgow. 
+
+She has a particular ongoing interest in the use of state transition modelling and its implementation in <tt>R</tt> and in comparing them to other methods of clinical- and cost-effectiveness analysis.

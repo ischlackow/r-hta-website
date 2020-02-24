@@ -27,10 +27,10 @@
       <!-- FORCES THE IMAGE TO BE IN THE FORM OF "circle" EVEN IF DEFINED AS "square" IN THE toml FILE
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="Avatar">
       -->
-      <img class="avatar {{if eq $avatar_shape "square"}}avatar-circle{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="Avatar">
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-circle{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=240')" alt="Avatar">
       {{ else if $avatar }}
       <!-- Change the original value from 270x270 to 275x275 to ensure that the whole logo is shown in the avatar -->
-      {{ $avatar_image := $avatar.Fill "275x275 Center" }}
+      {{ $avatar_image := $avatar.Fill "245x245 Center" }}
       <!-- FORCES THE IMAGE TO BE IN THE FORM OF "circle" EVEN IF DEFINED AS "square" IN THE toml FILE
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
       -->

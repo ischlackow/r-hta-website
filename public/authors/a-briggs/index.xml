@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Briggs | R for HTA</title>
+    <link>/authors/a-briggs/</link>
+      <atom:link href="/authors/a-briggs/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Briggs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/logo_hua139327858e4bc3a9ae5a6ca7b0c19f8_50808_300x300_fit_lanczos_2.png</url>
+      <title>A Briggs</title>
+      <link>/authors/a-briggs/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effectiveness Analysis in R Using a Multi-state Modeling Survival Analysis Framework: A Tutorial </title>
+      <link>/publication/williamsetal-2016/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/williamsetal-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

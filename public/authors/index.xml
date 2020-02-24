@@ -28,8 +28,18 @@
       <pubDate>Mon, 02 Mar 2020 16:00:00 +0000</pubDate>
       <guid>/authors/howard-thom/</guid>
       <description>&lt;p&gt;I am a lecturer in health economics and research fellow in statistical modelling at the University of Bristol. I work on a variety of methodological and applied problems in network meta-analysis (NMA), population adjusted indirect treatment comparison, health economic modelling, and value of information analysis. My methodological focus is on disconnected evidence networks in NMA, structural uncertainty in health economic modelling, and the use of value of information analysis to design adaptive trials.&lt;/p&gt;
-&lt;p&gt;I have been building health economic models in R for almost 10 years. These have included decision trees, multistate models, and microsimulation models. One of my models (the recently published directly acting oral anticoagulants for atrial fibrillation Markov model) is freely available from &lt;a href=&#34;https://github.com/Bogdasayen/DOACs-AF-Economic-model&#34;&gt;this GitHub repository&lt;/a&gt;. In addition to being co-organiser of the R for HTA group, I lead the two-day short course on &lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34;&gt;economic evaluation modelling in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol.&lt;/p&gt;
+&lt;p&gt;I have been building health economic models in R for almost 10 years. These have included decision trees, multistate models, and microsimulation models. One of my models (the recently published directly acting oral anticoagulants for atrial fibrillation Markov model) is freely available from 
+&lt;a href=&#34;https://github.com/Bogdasayen/DOACs-AF-Economic-model&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt;. In addition to being co-organiser of the R for HTA group, I lead the two-day short course on 
+&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;economic evaluation modelling in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Hatswell</title>
+      <link>/authors/a-hatswell/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a-hatswell/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,6 +47,14 @@
       <link>/authors/d-incerti/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/d-incerti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Chandler</title>
+      <link>/authors/f-chandler/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/f-chandler/</guid>
       <description></description>
     </item>
     
@@ -65,6 +83,30 @@
     </item>
     
     <item>
+      <title>A Briggs</title>
+      <link>/authors/a-briggs/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>/authors/a-briggs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Williams</title>
+      <link>/authors/c-williams/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>/authors/c-williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Lewsey</title>
+      <link>/authors/j-lewsey/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0100</pubDate>
+      <guid>/authors/j-lewsey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Heath</title>
       <link>/authors/a-heath/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -77,8 +119,12 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;&lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; is a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques. We advocate the use of proper statistical software, notably &lt;tt&gt;R&lt;/tt&gt;, to be used in the whole process of health economic evaluation.&lt;/p&gt;
-&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; &lt;a href=&#34;#resources&#34;&gt;add-on packages&lt;/a&gt;, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. &lt;a href=&#34;#talk&#34;&gt;Presentations&lt;/a&gt; and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our members have diverse experience in government (including &lt;a href=&#34;http://www.nice.org.uk/&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. 
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; is a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques. We advocate the use of proper statistical software, notably &lt;tt&gt;R&lt;/tt&gt;, to be used in the whole process of health economic evaluation.&lt;/p&gt;
+&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; 
+&lt;a href=&#34;#resources&#34;&gt;add-on packages&lt;/a&gt;, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. 
+&lt;a href=&#34;#talk&#34;&gt;Presentations&lt;/a&gt; and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our members have diverse experience in government (including 
+&lt;a href=&#34;http://www.nice.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
 </description>
     </item>
     
@@ -87,7 +133,9 @@
       <link>/authors/anthony-hatswell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/anthony-hatswell/</guid>
-      <description>&lt;p&gt;Anthony Hatswell&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Anthony Hatswell is a health economist and statistician. After his education at the University of York, he worked at Sanofi and GSK, as well as in consulting where he now runs 
+&lt;a href=&#34;http://www.deltahat.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Delta Hat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In addition to this he performs research at UCL where he looks at statistical methods to analyse uncontrolled clinical studies (otherwise known as single arm trials) and sits on the NICE interventional procedures committee. His published work includes meta-analyses of utility values in multiple myeloma, analysis of quality of life data by time to death, and numerous economic models.&lt;/p&gt;
 </description>
     </item>
     
@@ -96,7 +144,7 @@
       <link>/authors/boby-mihaylova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/boby-mihaylova/</guid>
-      <description>&lt;p&gt;Boby Mihaylova&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Borislava (Boby) Mihaylova is an Associate Professor and Senior Health Economist at the Health Economics Research Centre at the University of Oxford. Her research programme focuses on economic aspects of chronic disease (such as cardiovascular, chronic kidney disease and diabetes) and comprises studies of the impact of disease events and interventions on morbidity, mortality, health-related quality of life and healthcare costs; development of disease models to evaluate long-term effects of disease and interventions, cost-effectiveness analyses of healthcare interventions and studies of socio-economic determinants of health. She is leading the development of the economic analyses in a number of large randomised controlled trials (SHARP, THRIVE, REVEAL and ACST-2) and in the individual participant data meta-analysis of statin trials (Cholesterol Treatment Collaboration). Her work on effectiveness and cost-effectiveness of statins for cardiovascular disease prevention in the Heart Protection Study and the Cholesterol Treatment Collaboration has been influential in informing treatment recommendations for people at different vascular disease risk.&lt;/p&gt;
 </description>
     </item>
     
@@ -105,7 +153,10 @@
       <link>/authors/claire-williams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/claire-williams/</guid>
-      <description>&lt;p&gt;Nathan Green&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Claire Williams joined Health Economics Research Centre (HERC) at the University of Oxford in August 2019 as a Senior Researcher focused on cardiovascular disease modelling. She works on lifetime risk projections of cardiovascular events and associated healthcare costs for individual patient profiles based on large randomised control trials (REVEAL, CTT).&lt;/p&gt;
+&lt;p&gt;Immediately prior to joining HERC, Claire worked at University of Bristol on cost-effectiveness modelling and Value of Information analysis to evaluate the use of wound dressings to reduce surgical site infections.&lt;/p&gt;
+&lt;p&gt;Claire brings with her extensive experience as a medical statistician in both the NHS and academia. She completed her PhD exploring the potential of the continuous-time approach to multi-state modelling in an epidemiological and health economics context within the Health Economics and Health Technology Assessment research group at the University of Glasgow.&lt;/p&gt;
+&lt;p&gt;She has a particular ongoing interest in the use of state transition modelling and its implementation in &lt;tt&gt;R&lt;/tt&gt; and in comparing them to other methods of clinical- and cost-effectiveness analysis.&lt;/p&gt;
 </description>
     </item>
     
@@ -114,7 +165,10 @@
       <link>/authors/iryna-schlackow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/iryna-schlackow/</guid>
-      <description>&lt;p&gt;Iryna Schlackow&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Iryna Schlackow is a Senior Researcher in Health Economics at the Nuffield Department of Public Health (NDPH) at the University of Oxford. Her main area of interest covers questions related to chronic kidney and cardiovascular diseases, such as decision-analytic modelling, assessing long-term health outcomes and cost-effectiveness of interventions, and socioeconomics aspects of the disease.&lt;/p&gt;
+&lt;p&gt;She works with large randomised controlled trials (SHARP, REVEAL), meta-analyses of statin trials (CTT) and routine datasets (linked CPRD data). Based on SHARP data, and with the help of collaborators, she has developed the SHARP CKD-CVD model, which projects lifetime cardiovascular event risks, kidney disease projection, (quality-of-life adjusted) survival and healthcare costs based on individual patients&amp;rsquo; risk profiles.&lt;/p&gt;
+&lt;p&gt;Prior to joining the NDPH, Iryna worked as a statistician in the Infectious Diseases and Microbiology group of the Nuffield Department of Medicine, modelling disease trends using routinely collected data. Details of this work could be found here.&lt;/p&gt;
+&lt;p&gt;Iryna comes from a pure mathematics background and completed a DPhil in Functional Analysis. To maintain her interest in the subject, she has for many years taught pure mathematics at a variety of Oxford colleges (St. Hilda&#39;s, Jesus, New, Pembroke and Brasenose) as well as courses on LaTeX.&lt;/p&gt;
 </description>
     </item>
     
@@ -133,7 +187,8 @@
       <link>/authors/nathan-green/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/nathan-green/</guid>
-      <description>&lt;p&gt;Nathan Green&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;I am a Statistician and Mathematical Modeller Research Fellow in the Department of Infectious Disease Epidemiology, Faculty of Medicine, Imperial College London. I am also involved with the Statistics, Modelling and Economics Department at Public Health England.&lt;/p&gt;
+&lt;p&gt;I have a number of years experience working on a wide range of projects across government and academia in defence and health. I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool. After working for the Ministry of Defence for several years, applying novel Bayesian Inference ideas, I moved back into academia and the field of public health in 2010.&lt;/p&gt;
 </description>
     </item>
     
@@ -142,7 +197,7 @@
       <link>/authors/nicky-welton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/nicky-welton/</guid>
-      <description>&lt;p&gt;Nicky Welton&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;My research interests include methodology for evidence synthesis, and use of evidence in decision modelling. I also work on methods for Value of Information calculations that can be used to prioritise and design new research by comparing the expected benefit in the reduction of uncertainty in the optimal policy decision with the cost of a proposed new study. In particular, I work on examples of syntheses that provide the inputs to cost-effectiveness analyses that inform reimbursement decisions for health technologies by organisations such as the National Institute for Health and Clinical Excellence (NICE). I have worked on methods for synthesis of studies informing Markov models parameters, synthesis of evidence on components of complex interventions, bias adjustment in pairwise and network meta-analysis, allowing for uncertainty due to missing data, and combining evidence with heterogeneously reported (but related) outcomes. I have co-authored the NICE Decision Support Unit series of Technical Support Documents on Evidence Synthesis. I am co-lead of the Prioritisation of Research for Cost-Effectiveness theme of the MRC ConDuCT-II Hub for Trial Methodology Research, Associate Editor for the journal Research Synthesis Methods, a member of the editorial board for the journal Medical Decision Making, a Fellow of the Royal Statistical Society, deputy director of the NICE Clinical Guidelines Technical Support Unit, and a member of the NICE Technology Appraisals Committee.&lt;/p&gt;
 </description>
     </item>
     

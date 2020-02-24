@@ -178,7 +178,17 @@
   </url>
   
   <url>
+    <loc>/authors/a-hatswell/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/d-incerti/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f-chandler/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,6 +223,11 @@
   </url>
   
   <url>
+    <loc>/publication/hatswell-chandler-2017/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/workshop/2019/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -235,6 +250,26 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a-briggs/</loc>
+    <lastmod>2016-06-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c-williams/</loc>
+    <lastmod>2016-06-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/williamsetal-2016/</loc>
+    <lastmod>2016-06-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j-lewsey/</loc>
+    <lastmod>2016-06-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
