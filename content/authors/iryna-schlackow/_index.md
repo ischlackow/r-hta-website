@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "iryna.schlackow@dph.ox.ac.uk"
+email: "iryna.schlackow@ndph.ox.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,10 +69,6 @@ user_groups:
 - Scientific committee 
 ---
 
-Iryna Schlackow is a Senior Researcher in Health Economics at the Nuffield Department of Public Health (NDPH) at the University of Oxford. Her main area of interest covers questions related to chronic kidney and cardiovascular diseases, such as decision-analytic modelling, assessing long-term health outcomes and cost-effectiveness of interventions, and socioeconomics aspects of the disease. 
+Iryna is a Senior Researcher in Health Economics at the University of Oxford. She is interested in questions related to chronic diseases, such as long-term projections of health outcomes, cost-effectiveness of interventions and socioeconomics aspects. She uses R to work with randomised controlled trials, routine datasets and other big data. Iryna was the lead developer of a lifetime policy model projecting outcomes in patients with chronic kidney disease, which she made [freely available via a Shiny interface](http://dismod.ndph.ox.ac.uk/kidneymodel/app/).
 
-She works with large randomised controlled trials (SHARP, REVEAL), meta-analyses of statin trials (CTT) and routine datasets (linked CPRD data). Based on SHARP data, and with the help of collaborators, she has developed the SHARP CKD-CVD model, which projects lifetime cardiovascular event risks, kidney disease projection, (quality-of-life adjusted) survival and healthcare costs based on individual patients' risk profiles.
-
-Prior to joining the NDPH, Iryna worked as a statistician in the Infectious Diseases and Microbiology group of the Nuffield Department of Medicine, modelling disease trends using routinely collected data. Details of this work could be found here. 
-
-Iryna comes from a pure mathematics background and completed a DPhil in Functional Analysis. To maintain her interest in the subject, she has for many years taught pure mathematics at a variety of Oxford colleges (St. Hilda's, Jesus, New, Pembroke and Brasenose) as well as courses on LaTeX.
+Iryna completed a DPhil in pure mathematics and had been a maths and LaTeX tutor for many years. She finally decided to stop the teaching but quickly found herself running R workshops for health economists instead.
