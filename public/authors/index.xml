@@ -28,9 +28,7 @@
       <pubDate>Mon, 02 Mar 2020 16:00:00 +0000</pubDate>
       <guid>/authors/howard-thom/</guid>
       <description>&lt;p&gt;I am a lecturer in health economics and research fellow in statistical modelling at the University of Bristol. I work on a variety of methodological and applied problems in network meta-analysis (NMA), population adjusted indirect treatment comparison, health economic modelling, and value of information analysis. My methodological focus is on disconnected evidence networks in NMA, structural uncertainty in health economic modelling, and the use of value of information analysis to design adaptive trials.&lt;/p&gt;
-&lt;p&gt;I have been building health economic models in R for almost 10 years. These have included decision trees, multistate models, and microsimulation models. One of my models (the recently published directly acting oral anticoagulants for atrial fibrillation Markov model) is freely available from 
-&lt;a href=&#34;https://github.com/Bogdasayen/DOACs-AF-Economic-model&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt;. In addition to being co-organiser of the R for HTA group, I lead the two-day short course on 
-&lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;economic evaluation modelling in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol.&lt;/p&gt;
+&lt;p&gt;I have been building health economic models in R for almost 10 years. These have included decision trees, multistate models, and microsimulation models. One of my models (the recently published directly acting oral anticoagulants for atrial fibrillation Markov model) is freely available from &lt;a href=&#34;https://github.com/Bogdasayen/DOACs-AF-Economic-model&#34;&gt;this GitHub repository&lt;/a&gt;. In addition to being co-organiser of the R for HTA group, I lead the two-day short course on &lt;a href=&#34;https://www.bristol.ac.uk/medical-school/study/short-courses/economic-evaluation-modelling-using-r/&#34;&gt;economic evaluation modelling in &lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; at the University of Bristol.&lt;/p&gt;
 </description>
     </item>
     
@@ -79,12 +77,8 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. 
-&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; is a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques. We advocate the use of proper statistical software, notably &lt;tt&gt;R&lt;/tt&gt;, to be used in the whole process of health economic evaluation.&lt;/p&gt;
-&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; 
-&lt;a href=&#34;#resources&#34;&gt;add-on packages&lt;/a&gt;, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. 
-&lt;a href=&#34;#talk&#34;&gt;Presentations&lt;/a&gt; and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our members have diverse experience in government (including 
-&lt;a href=&#34;http://www.nice.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;tt&gt;R&lt;/tt&gt; for Health Technology Assessment (HTA) is an academic consortium whose main objective is to explore the use of &lt;tt&gt;R&lt;/tt&gt; for cost-effectiveness analysis (CEA) as an alternative to less efficient, generalisable and powerful software such as spreadsheets. &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;&lt;tt&gt;R&lt;/tt&gt;&lt;/a&gt; is a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques. We advocate the use of proper statistical software, notably &lt;tt&gt;R&lt;/tt&gt;, to be used in the whole process of health economic evaluation.&lt;/p&gt;
+&lt;p&gt;General topics of interest include a wide range of technical aspects, e.g. the discussion of the many available &lt;tt&gt;R&lt;/tt&gt; &lt;a href=&#34;#resources&#34;&gt;add-on packages&lt;/a&gt;, as well as ways to help users get the most out of &lt;tt&gt;R&lt;/tt&gt; for CEA. &lt;a href=&#34;#talk&#34;&gt;Presentations&lt;/a&gt; and public discussions are used to address the computational and transparency advantages of &lt;tt&gt;R&lt;/tt&gt; over &lt;tt&gt;Excel&lt;/tt&gt; for CEA and for easing collaboration. Our members have diverse experience in government (including &lt;a href=&#34;http://www.nice.org.uk/&#34;&gt;NICE&lt;/a&gt; in the UK), academia, and industry.&lt;/p&gt;
 </description>
     </item>
     
@@ -157,7 +151,9 @@
       <link>/authors/padraig-dixon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/padraig-dixon/</guid>
-      <description>&lt;p&gt;I am a Research Fellow in Health Economics in the Department of Population Health and the MRC Integrative Epidemiology Unit in Bristol Medical School. My research interests are in the use of genetic data and related methodologies (especially Mendelian Randomization) to study the causal effect of prevalent traits, behaviours and health conditions on economic outcomes such healthcare costs.  I hold degrees in Economics from Trinity College Dublin (BA) and Nuffield College, Oxford (MPhil and DPhil), and in Health Economics from the University of York (MSc).&lt;/p&gt;
+      <description>&lt;p&gt;I am a Research Fellow in Health Economics in the Department of Population Health and the MRC Integrative Epidemiology Unit in Bristol Medical School.&lt;/p&gt;
+&lt;p&gt;My research interests are in the use of genetic data and related methodologies (especially Mendelian Randomization) to study the causal effect of prevalent traits, behaviours and health conditions on economic outcomes such healthcare costs.&lt;/p&gt;
+&lt;p&gt;I hold degrees in Economics from Trinity College Dublin (BA) and Nuffield College, Oxford (MPhil and DPhil), and in Health Economics from the University of York (MSc).&lt;/p&gt;
 </description>
     </item>
     
@@ -166,7 +162,8 @@
       <link>/authors/pedro-saramago/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/pedro-saramago/</guid>
-      <description>&lt;p&gt;Pedro Saramago&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;I am a Research Fellow at the Centre for Health Economics (University of York) and work for the Team for Economic Evaluation and Health Technology Assessment (TEEHTA).&lt;/p&gt;
+&lt;p&gt;My main research interests are in the use of statistical and decision-analytic modelling methods for cost-effectiveness analysis and decision-making, with emphasis on the synthesis of evidence to inform economic evaluations of healthcare technologies. Bayesian statistical analysis and use of the statistical software &lt;tt&gt;R&lt;/tt&gt; are at the heart of most of my research. I collaborate with the UK National Institute for Health and Care Excellence (NICE) through the CHE TAR programme, with the National Institute for Health Research through a number of funded projects and with the Portuguese INFARMED IP (the Portuguese equivalent to NICE in the UK) as a member of the scientific and technology appraisal committees.&lt;/p&gt;
 </description>
     </item>
     

@@ -47,13 +47,13 @@ social:
   link: mailto:padraig.dixon@bristol.ac.uk ####'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/PadraigDixon
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=88GQovUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/pdixon-econ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +69,8 @@ user_groups:
 - Scientific committee 
 ---
 
-I am a Research Fellow in Health Economics in the Department of Population Health and the MRC Integrative Epidemiology Unit in Bristol Medical School. My research interests are in the use of genetic data and related methodologies (especially Mendelian Randomization) to study the causal effect of prevalent traits, behaviours and health conditions on economic outcomes such healthcare costs.  I hold degrees in Economics from Trinity College Dublin (BA) and Nuffield College, Oxford (MPhil and DPhil), and in Health Economics from the University of York (MSc).
+I am a Research Fellow in Health Economics in the Department of Population Health and the MRC Integrative Epidemiology Unit in Bristol Medical School. 
+
+My research interests are in the use of genetic data and related methodologies (especially Mendelian Randomization) to study the causal effect of prevalent traits, behaviours and health conditions on economic outcomes such healthcare costs.  
+
+I hold degrees in Economics from Trinity College Dublin (BA) and Nuffield College, Oxford (MPhil and DPhil), and in Health Economics from the University of York (MSc).
