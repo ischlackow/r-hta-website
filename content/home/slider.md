@@ -36,7 +36,7 @@ height = ""
 
 #############
 [[item]]
-  title = 'Half day short course: "Introduction to R for Cost-Effectiveness Modelling"'
+  title = 'Half day short course: "Introduction to <tt>R</tt> for Cost-Effectiveness Modelling"'
   content = "University College London, 29 June 2020"
   align = "center"  # Choose `center`, `left`, or `right`.
 
